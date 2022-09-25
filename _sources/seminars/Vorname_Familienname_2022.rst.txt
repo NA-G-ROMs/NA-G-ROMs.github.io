@@ -1,0 +1,34 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Vorname Familienname
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Vorname Familienname (Name der Universität)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        Titel des Seminars
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * 2022-05-01 11:30 CEST+0200 (Europe/Rome)
+        * 2022-05-01 05:30 EDT-0400 (US/Eastern)
+        * 2022-05-01 04:30 CDT-0500 (US/Central)
+        * 2022-05-01 02:30 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TODO read from tex

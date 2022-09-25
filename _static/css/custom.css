@@ -274,6 +274,20 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
     cursor: auto;
 }
 
+.sd-badge-seminar-container p {
+    margin: 0.4em;
+}
+
+.sd-badge-seminar-container .sd-badge {
+    width: 10em;
+    font-size: 1em;
+    margin-left: 0em;
+}
+
+.sd-badge-seminar-container .sd-badge-next-text {
+    margin-left: 2em;
+}
+
 /* Incompatibilities between sphinx-material-design and sphinx-design */
 .md-typeset details {
     border: 2px solid var(--sd-color-primary);

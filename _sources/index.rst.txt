@@ -30,7 +30,8 @@ NA G-ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        This is another test
+        * Nombre Apellido, "`Título del seminario <seminars/Nombre_Apellido_2022.html>`_", 2022-10-18.
+        * Nome Cognome, "`Titolo del seminario <seminars/Nome_Cognome_2022.html>`_", 2022-10-30.
         +++
         :doc:`Read more <upcoming>`
 
@@ -38,7 +39,8 @@ NA G-ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
-        This is a test
+        * Name Surname, "`Title of the seminar <seminars/Name_Surname_2022.html>`_", 2022-08-30.
+        * Vorname Familienname, "`Titel des Seminars <seminars/Vorname_Familienname_2022.html>`_", 2022-05-01.
         +++
         :doc:`Read more <past>`
 
