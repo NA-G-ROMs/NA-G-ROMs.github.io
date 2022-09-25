@@ -1,0 +1,61 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+NA G-ROMs seminar series
+========================
+.. meta::
+    :description lang=en:
+        NA G-ROMs seminar series.
+
+.. toctree::
+    :maxdepth: 1
+
+    past
+    upcoming
+
+.. grid:: 1 1 1 1
+    :gutter: 2
+
+    .. grid-item-card::
+
+        Scope
+        ^^^
+        .. line-block::
+            Short description of the scope
+            of the seminar series.
+
+.. grid:: 1 1 2 2
+    :gutter: 2
+
+    .. grid-item-card::
+
+        :doc:`Upcoming seminars <upcoming>`
+        ^^^
+        This is another test
+        +++
+        :doc:`Read more <upcoming>`
+
+    .. grid-item-card::
+
+        :doc:`Past seminars <past>`
+        ^^^
+        This is a test
+        +++
+        :doc:`Read more <past>`
+
+.. grid:: 1 1 2 2
+    :gutter: 2
+
+    .. grid-item-card::
+
+        Organizers
+        ^^^
+        * TI
+        * FB
+        * MS
+        * BK
+
+    .. grid-item-card::
+
+        Acknowledgments
+        ^^^
+        ARIA, our departments, ...
