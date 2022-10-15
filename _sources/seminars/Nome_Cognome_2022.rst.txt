@@ -31,4 +31,4 @@ Seminar by Nome Cognome
 
     .. container:: sd-badge-next-text
 
-        TODO read from tex
+        Italian abstract, with a part in **bold** and another part in *italic*.

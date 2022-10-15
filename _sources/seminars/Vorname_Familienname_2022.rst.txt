@@ -31,4 +31,6 @@ Seminar by Vorname Familienname
 
     .. container:: sd-badge-next-text
 
-        TODO read from tex
+        :math:`\mathfrak{H}`\ ello world from the German abstract.
+        
+        .. math:: 1 + 1 = 2

@@ -216,6 +216,11 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
     color: var(--sd-color-secondary);
 }
 
+.sd-card-goals {
+    overflow: hidden;
+    text-align: justify;
+}
+
 .sd-tab-set > input + label {
     margin-left: 1px;
     margin-right: 1px;

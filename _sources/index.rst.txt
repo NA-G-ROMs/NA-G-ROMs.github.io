@@ -1,10 +1,10 @@
 .. DO NOT MODIFY: this file was automatically generated!
 
-NA G-ROMs seminar series
-========================
+Numerical Analysis of Galerkin ROMs seminar series
+==================================================
 .. meta::
     :description lang=en:
-        NA G-ROMs seminar series.
+        Numerical Analysis of Galerkin ROMs seminar series.
 
 .. toctree::
     :maxdepth: 1
@@ -17,11 +17,20 @@ NA G-ROMs seminar series
 
     .. grid-item-card::
 
-        Scope
+        Goals and objectives
         ^^^
+        .. image:: _static/images/na-g-roms-logo.png
+            :height: 150px
+            :width: 150px
+            :align: right
+            :alt: NA G-ROMs seminar series
+
         .. line-block::
-            Short description of the scope
-            of the seminar series.
+            :class: sd-card-goals
+
+            The main purpose of the NA G-ROMs seminar series is to serve as a forum for the Galerkin reduced order model (G-ROM) community to exchange their views on both the achievements and the open problems in the numerical analysis of G-ROMs, e.g., proper orthogonal decomposition (POD), reduced basis method (RBM), and related techniques.
+            The NA G-ROMs seminar series aims at fostering the exchange of ideas among the G-ROM community members who are genuinely interested in the development of the mathematical foundations of G-ROMs and, in particular, bringing the G-ROM numerical analysis to a level comparable to that of classical numerical methods, e.g., the finite element method.
+            Furthermore, the NA G-ROMs seminar series aims at leveraging new mathematical results to develop the next generation of G-ROMs for industrial, geophysical, and biomedical applications.
 
 .. grid:: 1 1 2 2
     :gutter: 2
@@ -49,15 +58,38 @@ NA G-ROMs seminar series
 
     .. grid-item-card::
 
+        How to participate
+        ^^^
+        * Subscribe to `our mailing list <mailto:na-g-roms+subscribe@googlegroups.com>`_ to receive links to the zoom seminar room.
+        * Add `the seminars calendar <https://calendar.google.com/calendar/embed?src=9ca18e5c2c77e2fb07344e8c1f8eedb393c36296cdd4f9461ed87cc33138805f%40group.calendar.google.com&ctz=Europe%2FRome>`_ to your calendar.
+        * Watch past seminars from `our YouTube channel <https://www.youtube.com/channel/UCqVn2FziIlis8N5fVmMYImQ>`_.
+
+    .. grid-item-card::
+
         Organizers
         ^^^
-        * TI
-        * FB
-        * MS
-        * BK
+        * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_
+        * `Francesco Ballarin <https://www.francescoballarin.it/>`_
+        * `Maria Strazzullo <https://people.sissa.it/~mstrazzu/>`_
+        * Birgul Koc
+
+
+.. grid:: 1 1 1 1
+    :gutter: 2
 
     .. grid-item-card::
 
         Acknowledgments
         ^^^
-        ARIA, our departments, ...
+        The seminar series is organized within:
+
+        * the `ARIA project <https://project.inria.fr/aria/>`_, a H2020-MSCA-RISE-2019 financed by the European Commission under the Grant Agreement No 872442.
+
+        |
+
+        We further acknowledge our institutions:
+
+        * Interdisciplinary Center for Applied Mathematics and `Department of Mathematics <https://math.vt.edu/>`_, `Virginia Tech <https://www.vt.edu/>`_
+        * `MATHEX <https://centridiricerca.unicatt.it/mathex>`_ and `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
+        * `Department of Mathematical Sciences <https://www.disma.polito.it/>`_, `Politecnico di Torino <https://www.polito.it/>`_
+        * `Institute of Mathematics <https://www.imus.us.es/www/>`_, `Universidad de Sevilla <https://www.us.es/>`_

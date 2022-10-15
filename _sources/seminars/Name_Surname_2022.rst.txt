@@ -31,4 +31,10 @@ Seminar by Name Surname
 
     .. container:: sd-badge-next-text
 
-        TODO read from tex
+        English abstract with Figure `1 <#fig:placeholder>`__.
+        
+        .. figure:: images/placeholder.png
+           :alt: Figure 1: A placeholder image.
+           :name: fig:placeholder
+        
+           Figure 1: A placeholder image.
