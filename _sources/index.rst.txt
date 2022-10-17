@@ -92,4 +92,4 @@ Numerical Analysis of Galerkin ROMs seminar series
         * Interdisciplinary Center for Applied Mathematics and `Department of Mathematics <https://math.vt.edu/>`_, `Virginia Tech <https://www.vt.edu/>`_
         * `MATHEX <https://centridiricerca.unicatt.it/mathex>`_ and `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
         * `Department of Mathematical Sciences <https://www.disma.polito.it/>`_, `Politecnico di Torino <https://www.polito.it/>`_
-        * `Institute of Mathematics <https://www.imus.us.es/www/>`_, `Universidad de Sevilla <https://www.us.es/>`_
+        * `IFP Energies Nouvelles <https://www.ifpenergiesnouvelles.fr/>`_ and `Inria Memphis <https://www.inria.fr/en/memphis>`_
