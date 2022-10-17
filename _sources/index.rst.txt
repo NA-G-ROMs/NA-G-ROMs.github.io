@@ -71,7 +71,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_
         * `Francesco Ballarin <https://www.francescoballarin.it/>`_
         * `Maria Strazzullo <https://mstrazzu.github.io/>`_
-        * Birgul Koc
+        * `Birgul Koc <https://sites.google.com/view/koc-birgul/home>`_
 
 
 .. grid:: 1 1 1 1
