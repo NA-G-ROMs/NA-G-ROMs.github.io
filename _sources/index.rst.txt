@@ -48,7 +48,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
-        * Name Surname, "`Title of the seminar <seminars/Name_Surname_2022.html>`_", 2022-08-30.
+        * Name Surname, "`Title of the seminar <seminars/Name_Surname_2022.html>`_":youtubeseminar:`https://www.youtube.com/`, 2022-08-30.
         * Vorname Familienname, "`Titel des Seminars <seminars/Vorname_Familienname_2022.html>`_", 2022-05-01.
         +++
         :doc:`Read more <past>`

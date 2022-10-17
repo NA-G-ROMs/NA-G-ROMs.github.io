@@ -38,3 +38,10 @@ Seminar by Name Surname
            :name: fig:placeholder
         
            Figure 1: A placeholder image.
+
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/>`_.
+    

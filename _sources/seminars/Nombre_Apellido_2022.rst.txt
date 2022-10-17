@@ -43,3 +43,5 @@ Seminar by Nombre Apellido
               Berkooz, Gal, Philip Holmes, and John L Lumley. 1993. “The Proper
               Orthogonal Decomposition in the Analysis of Turbulent Flows.”
               *Annual Review of Fluid Mechanics* 25 (1): 539–75.
+
+    
