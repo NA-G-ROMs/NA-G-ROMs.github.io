@@ -68,10 +68,10 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         Organizers
         ^^^
-        * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_
         * `Francesco Ballarin <https://www.francescoballarin.it/>`_
         * `Maria Strazzullo <https://mstrazzu.github.io/>`_
         * `Birgul Koc <https://sites.google.com/view/koc-birgul/home>`_
+        * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_
 
 
 .. grid:: 1 1 1 1
@@ -89,7 +89,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         We further acknowledge our institutions:
 
-        * Interdisciplinary Center for Applied Mathematics and `Department of Mathematics <https://math.vt.edu/>`_, `Virginia Tech <https://www.vt.edu/>`_
         * `MATHEX <https://centridiricerca.unicatt.it/mathex>`_ and `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
         * `Department of Mathematical Sciences <https://www.disma.polito.it/>`_, `Politecnico di Torino <https://www.polito.it/>`_
         * `IFP Energies Nouvelles <https://www.ifpenergiesnouvelles.fr/>`_ and `Inria Memphis <https://www.inria.fr/en/memphis>`_
+        * Interdisciplinary Center for Applied Mathematics and `Department of Mathematics <https://math.vt.edu/>`_, `Virginia Tech <https://www.vt.edu/>`_
