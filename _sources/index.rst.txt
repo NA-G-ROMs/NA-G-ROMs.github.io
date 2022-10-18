@@ -28,9 +28,10 @@ Numerical Analysis of Galerkin ROMs seminar series
         .. line-block::
             :class: sd-card-goals
 
-            The main purpose of the NA G-ROMs seminar series is to serve as a forum for the Galerkin reduced order model (G-ROM) community to exchange their views on both the achievements and the open problems in the numerical analysis of G-ROMs, e.g., proper orthogonal decomposition (POD), reduced basis method (RBM), and related techniques.
+            The main purpose of the Numerical Analysis of Galerkin ROMs (NA G-ROMs) seminar series is to serve as a forum for the Galerkin reduced order model (G-ROM) community to exchange their views on both the achievements and the open problems in the numerical analysis of G-ROMs, e.g., proper orthogonal decomposition (POD), reduced basis method (RBM), and related techniques.
             The NA G-ROMs seminar series aims at fostering the exchange of ideas among the G-ROM community members who are genuinely interested in the development of the mathematical foundations of G-ROMs and, in particular, bringing the G-ROM numerical analysis to a level comparable to that of classical numerical methods, e.g., the finite element method.
             Furthermore, the NA G-ROMs seminar series aims at leveraging new mathematical results to develop the next generation of G-ROMs for industrial, geophysical, and biomedical applications.
+            Students and postdocs, as well as researchers from related fields (e.g., finite element and spectral methods) are especially encouraged to participate.
 
 .. grid:: 1 1 2 2
     :gutter: 2
