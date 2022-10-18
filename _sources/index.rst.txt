@@ -28,7 +28,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         .. line-block::
             :class: sd-card-goals
 
-            The main purpose of the Numerical Analysis of Galerkin ROMs (NA G-ROMs) seminar series is to serve as a forum for the Galerkin reduced order model (G-ROM) community to exchange their views on both the achievements and the open problems in the numerical analysis of G-ROMs, e.g., proper orthogonal decomposition (POD), reduced basis method (RBM), and related techniques.
+            The main purpose of the Numerical Analysis of Galerkin ROMs (NA G-ROMs) seminar series is to serve as a forum for the Galerkin reduced order model (G-ROM) community to exchange their views on both the achievements and the "nagging" open problems in the numerical analysis of G-ROMs, e.g., proper orthogonal decomposition (POD), reduced basis method (RBM), and related techniques.
             The NA G-ROMs seminar series aims at fostering the exchange of ideas among the G-ROM community members who are genuinely interested in the development of the mathematical foundations of G-ROMs and, in particular, bringing the G-ROM numerical analysis to a level comparable to that of classical numerical methods, e.g., the finite element method.
             Furthermore, the NA G-ROMs seminar series aims at leveraging new mathematical results to develop the next generation of G-ROMs for industrial, geophysical, and biomedical applications.
             Students and postdocs, as well as researchers from related fields (e.g., finite element and spectral methods) are especially encouraged to participate.
@@ -40,7 +40,6 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Nombre Apellido, "`Título del seminario <seminars/Nombre_Apellido_2022.html>`_", 2022-10-18.
         * Nome Cognome, "`Titolo del seminario <seminars/Nome_Cognome_2022.html>`_", 2022-10-30.
         +++
         :doc:`Read more <upcoming>`
@@ -49,6 +48,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Nombre Apellido, "`Título del seminario <seminars/Nombre_Apellido_2022.html>`_", 2022-10-18.
         * Name Surname, "`Title of the seminar <seminars/Name_Surname_2022.html>`_":youtubeseminar:`https://www.youtube.com/`, 2022-08-30.
         * Vorname Familienname, "`Titel des Seminars <seminars/Vorname_Familienname_2022.html>`_", 2022-05-01.
         +++
@@ -69,10 +69,10 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         Organizers
         ^^^
-        * `Francesco Ballarin <https://www.francescoballarin.it/>`_
-        * `Maria Strazzullo <https://mstrazzu.github.io/>`_
-        * `Birgul Koc <https://sites.google.com/view/koc-birgul/home>`_
-        * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_
+        * `Francesco Ballarin <https://www.francescoballarin.it/>`_ (`Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_)
+        * `Maria Strazzullo <https://mstrazzu.github.io/>`_ (`Politecnico di Torino <https://www.polito.it/>`_)
+        * `Birgul Koc <https://sites.google.com/view/koc-birgul/home>`_ (`IFP Energies Nouvelles <https://www.ifpenergiesnouvelles.fr/>`_ and `Inria Memphis <https://www.inria.fr/en/memphis>`_)
+        * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_ (`Virginia Tech <https://www.vt.edu/>`_)
 
 
 .. grid:: 1 1 1 1

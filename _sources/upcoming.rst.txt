@@ -2,5 +2,4 @@
 
 Upcoming seminars
 =================
-* Nombre Apellido, "`Título del seminario <seminars/Nombre_Apellido_2022.html>`_", 2022-10-18.
 * Nome Cognome, "`Titolo del seminario <seminars/Nome_Cognome_2022.html>`_", 2022-10-30.
