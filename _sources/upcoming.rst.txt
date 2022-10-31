@@ -2,4 +2,3 @@
 
 Upcoming seminars
 =================
-* Nome Cognome, "`Titolo del seminario <seminars/Nome_Cognome_2022.html>`_", 2022-10-30.
