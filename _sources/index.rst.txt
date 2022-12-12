@@ -38,26 +38,6 @@ Numerical Analysis of Galerkin ROMs seminar series
 
     .. grid-item-card::
 
-        :doc:`Upcoming seminars <upcoming>`
-        ^^^
-        +++
-        :doc:`Read more <upcoming>`
-
-    .. grid-item-card::
-
-        :doc:`Past seminars <past>`
-        ^^^
-        * Nome Cognome, "`Titolo del seminario <seminars/Nome_Cognome_2022.html>`_", 2022-10-30.
-        * Nombre Apellido, "`Título del seminario <seminars/Nombre_Apellido_2022.html>`_", 2022-10-18.
-        * Name Surname, "`Title of the seminar <seminars/Name_Surname_2022.html>`_":youtubeseminar:`https://www.youtube.com/`, 2022-08-30.
-        +++
-        :doc:`Read more <past>`
-
-.. grid:: 1 1 2 2
-    :gutter: 2
-
-    .. grid-item-card::
-
         How to participate
         ^^^
         * Subscribe to `our mailing list <mailto:na-g-roms+subscribe@googlegroups.com>`_ to receive links to the zoom seminar room.
