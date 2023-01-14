@@ -22,10 +22,10 @@ Seminar by Mejdi Azaiez
 
     .. container:: sd-badge-next-text
 
-        * 2023-04-04 16:00 CEST+0200 (Europe/Rome)
-        * 2023-04-04 10:00 EDT-0400 (US/Eastern)
-        * 2023-04-04 09:00 CDT-0500 (US/Central)
-        * 2023-04-04 07:00 PDT-0700 (US/Pacific)
+        * April 04, 2023 16:00 CEST+0200 (Europe/Rome)
+        * April 04, 2023 10:00 EDT-0400 (US/Eastern)
+        * April 04, 2023 09:00 CDT-0500 (US/Central)
+        * April 04, 2023 07:00 PDT-0700 (US/Pacific)
 
     :bdg-primary-line:`Abstract`
 

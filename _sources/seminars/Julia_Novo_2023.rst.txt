@@ -22,10 +22,10 @@ Seminar by Julia Novo
 
     .. container:: sd-badge-next-text
 
-        * 2023-03-21 16:00 CET+0100 (Europe/Rome)
-        * 2023-03-21 11:00 EDT-0400 (US/Eastern)
-        * 2023-03-21 10:00 CDT-0500 (US/Central)
-        * 2023-03-21 08:00 PDT-0700 (US/Pacific)
+        * March 21, 2023 16:00 CET+0100 (Europe/Rome)
+        * March 21, 2023 11:00 EDT-0400 (US/Eastern)
+        * March 21, 2023 10:00 CDT-0500 (US/Central)
+        * March 21, 2023 08:00 PDT-0700 (US/Pacific)
 
     :bdg-primary-line:`Abstract`
 

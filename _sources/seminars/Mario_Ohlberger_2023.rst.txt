@@ -22,10 +22,10 @@ Seminar by Mario Ohlberger
 
     .. container:: sd-badge-next-text
 
-        * 2023-04-18 16:00 CEST+0200 (Europe/Rome)
-        * 2023-04-18 10:00 EDT-0400 (US/Eastern)
-        * 2023-04-18 09:00 CDT-0500 (US/Central)
-        * 2023-04-18 07:00 PDT-0700 (US/Pacific)
+        * April 18, 2023 16:00 CEST+0200 (Europe/Rome)
+        * April 18, 2023 10:00 EDT-0400 (US/Eastern)
+        * April 18, 2023 09:00 CDT-0500 (US/Central)
+        * April 18, 2023 07:00 PDT-0700 (US/Pacific)
 
     :bdg-primary-line:`Abstract`
 

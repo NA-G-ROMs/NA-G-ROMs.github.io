@@ -22,10 +22,10 @@ Seminar by Jan Hesthaven
 
     .. container:: sd-badge-next-text
 
-        * 2023-04-25 16:00 CEST+0200 (Europe/Rome)
-        * 2023-04-25 10:00 EDT-0400 (US/Eastern)
-        * 2023-04-25 09:00 CDT-0500 (US/Central)
-        * 2023-04-25 07:00 PDT-0700 (US/Pacific)
+        * April 25, 2023 16:00 CEST+0200 (Europe/Rome)
+        * April 25, 2023 10:00 EDT-0400 (US/Eastern)
+        * April 25, 2023 09:00 CDT-0500 (US/Central)
+        * April 25, 2023 07:00 PDT-0700 (US/Pacific)
 
     :bdg-primary-line:`Abstract`
 
