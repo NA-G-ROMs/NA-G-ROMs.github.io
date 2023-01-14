@@ -1,0 +1,43 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Julia Novo
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Julia Novo (Universidad Autónoma de Madrid)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * 2023-03-21 16:00 CET+0100 (Europe/Rome)
+        * 2023-03-21 11:00 EDT-0400 (US/Eastern)
+        * 2023-03-21 10:00 CDT-0500 (US/Central)
+        * 2023-03-21 08:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        In this talk we study numerical approximations to the incompressible
+        Navier-Stokes equations by means of proper orthogonal decomposition
+        (POD) methods. Several questions are considered such as the influence of
+        including snapshots that approach the velocity time derivative and the
+        influence of considering different discretizations for the nonlinear
+        term in the full order model and the reduced order model. Error bounds
+        with constants independent of the Reynolds numbers are obtained in the
+        numerical analysis.
+
+    

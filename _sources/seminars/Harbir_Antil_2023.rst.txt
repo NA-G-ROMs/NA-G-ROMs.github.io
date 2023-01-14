@@ -1,0 +1,52 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Harbir Antil
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Harbir Antil (George Mason University)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * 2023-04-11 16:00 CEST+0200 (Europe/Rome)
+        * 2023-04-11 10:00 EDT-0400 (US/Eastern)
+        * 2023-04-11 09:00 CDT-0500 (US/Central)
+        * 2023-04-11 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        Dynamic optimization problems arise in many applications including
+        optimal flow control, full waveform inversion, and medical imaging,
+        where they are plagued by significant computational challenges. For
+        example, memory is often a limiting factor on the size of problems one
+        can solve since the evaluation of derivatives requires the entire state
+        trajectory. Additionally, many applications employ nonsmooth
+        regularizers such as the :math:`L^1`-norm or the total variation as well
+        as auxiliary constraints on the optimization variables. In this talk, we
+        introduce a novel trust-region algorithm for minimizing the sum of a
+        smooth, nonconvex function and a nonsmooth, convex function that
+        addresses these two challenges. Our algorithm employs randomized
+        sketching to store a compressed version of the state trajectory for use
+        in derivative computations. By allowing the trust-region algorithm to
+        adaptively learn the rank of the state sketch, we arrive at a provably
+        convergent method with near optimal memory requirements. We demonstrate
+        the efficacy of our method on a parabolic PDE-constrained optimization
+        problem with measure-valued control variables.
+
+    

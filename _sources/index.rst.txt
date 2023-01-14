@@ -38,6 +38,26 @@ Numerical Analysis of Galerkin ROMs seminar series
 
     .. grid-item-card::
 
+        :doc:`Upcoming seminars <upcoming>`
+        ^^^
+        * Traian Iliescu, "`TBA <seminars/Traian_Iliescu_2023.html>`__", 2023-01-31.
+        * Tomás Chacón Rebollo, "`TBA <seminars/Tomas_Chacon_Rebollo_2023.html>`__", 2023-02-07.
+        * John Singler, "`TBA <seminars/John_Singler_2023.html>`__", 2023-02-14.
+        +++
+        :doc:`Read more <upcoming>`
+
+    .. grid-item-card::
+
+        :doc:`Past seminars <past>`
+        ^^^
+        +++
+        :doc:`Read more <past>`
+
+.. grid:: 1 1 2 2
+    :gutter: 2
+
+    .. grid-item-card::
+
         How to participate
         ^^^
         * Subscribe to `our mailing list <mailto:na-g-roms+subscribe@googlegroups.com>`_ to receive links to the zoom seminar room.

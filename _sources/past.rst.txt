@@ -2,7 +2,3 @@
 
 Past seminars
 =============
-* Nome Cognome, "`Titolo del seminario <seminars/Nome_Cognome_2022.html>`_", 2022-10-30.
-* Nombre Apellido, "`Título del seminario <seminars/Nombre_Apellido_2022.html>`_", 2022-10-18.
-* Name Surname, "`Title of the seminar <seminars/Name_Surname_2022.html>`_":youtubeseminar:`https://www.youtube.com/`, 2022-08-30.
-* Vorname Familienname, "`Titel des Seminars <seminars/Vorname_Familienname_2022.html>`_", 2022-05-01.

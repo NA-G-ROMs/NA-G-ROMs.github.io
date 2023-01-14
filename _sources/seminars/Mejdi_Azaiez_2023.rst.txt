@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Mejdi Azaiez
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Mejdi Azaiez (Institut Polytechnique de Bordeaux)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * 2023-04-04 16:00 CEST+0200 (Europe/Rome)
+        * 2023-04-04 10:00 EDT-0400 (US/Eastern)
+        * 2023-04-04 09:00 CDT-0500 (US/Central)
+        * 2023-04-04 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

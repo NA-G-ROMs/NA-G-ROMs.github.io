@@ -1,0 +1,44 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Mario Ohlberger
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Mario Ohlberger (Westfälische Wilhelms-Universität Münster)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        Model Reduction and Learning for PDE Constrained Optimization
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * 2023-04-18 16:00 CEST+0200 (Europe/Rome)
+        * 2023-04-18 10:00 EDT-0400 (US/Eastern)
+        * 2023-04-18 09:00 CDT-0500 (US/Central)
+        * 2023-04-18 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        Model order reduction for parameterized systems has gained a lot of
+        attention in the last two decades. In this talk we will focus on
+        projection based model order reduction and their efficient application
+        to solve large scale PDE constrained optimization problems. We will
+        discuss learning strategies, such as adaptive enrichment as well as a
+        combination of reduced order models with machine learning approaches in
+        the context of time dependent problems. Concepts of rigorous
+        certification and convergence will be presented, as well as numerical
+        experiments that demonstrate the efficiency of the proposed approaches.
+
+    

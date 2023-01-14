@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by John Singler
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        John Singler (Missouri University of Science and Technology)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * 2023-02-14 16:00 CET+0100 (Europe/Rome)
+        * 2023-02-14 10:00 EST-0500 (US/Eastern)
+        * 2023-02-14 09:00 CST-0600 (US/Central)
+        * 2023-02-14 07:00 PST-0800 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

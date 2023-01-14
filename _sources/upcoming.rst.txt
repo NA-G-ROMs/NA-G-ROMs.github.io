@@ -2,3 +2,19 @@
 
 Upcoming seminars
 =================
+* Traian Iliescu, "`TBA <seminars/Traian_Iliescu_2023.html>`__", 2023-01-31.
+* Tomás Chacón Rebollo, "`TBA <seminars/Tomas_Chacon_Rebollo_2023.html>`__", 2023-02-07.
+* John Singler, "`TBA <seminars/John_Singler_2023.html>`__", 2023-02-14.
+* Masayuki Yano, "`TBA <seminars/Masayuki_Yano_2023.html>`__", 2023-02-21.
+* Volker John, "`TBA <seminars/Volker_John_2023.html>`__", 2023-02-28.
+* Ramon Codina, "`TBA <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
+* Karsten Urban, "`TBA <seminars/Karsten_Urban_2023.html>`__", 2023-03-14.
+* Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__", 2023-03-21.
+* Tommaso Taddei, "`TBA <seminars/Tommaso_Taddei_2023.html>`__", 2023-03-28.
+* Mejdi Azaiez, "`TBA <seminars/Mejdi_Azaiez_2023.html>`__", 2023-04-04.
+* Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
+* Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__", 2023-04-18.
+* Jan Hesthaven, "`TBA <seminars/Jan_Hesthaven_2023.html>`__", 2023-04-25.
+* Michael Hinze, "`TBA <seminars/Michael_Hinze_2023.html>`__", 2023-05-02.
+* Simona Perotto, "`TBA <seminars/Simona_Perotto_2023.html>`__", 2023-05-09.
+* Yanlai Chen, "`TBA <seminars/Yanlai_Chen_2023.html>`__", 2023-05-16.
