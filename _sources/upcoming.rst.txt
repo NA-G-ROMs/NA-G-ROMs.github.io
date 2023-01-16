@@ -3,7 +3,7 @@
 Upcoming seminars
 =================
 * Traian Iliescu, "`TBA <seminars/Traian_Iliescu_2023.html>`__", 2023-01-31.
-* Tomás Chacón Rebollo, "`TBA <seminars/Tomas_Chacon_Rebollo_2023.html>`__", 2023-02-07.
+* Tomás Chacón Rebollo, "`Some techniques for the stabilisation of the pressure discretization in Reduced Order Models of incompressible fluids <seminars/Tomas_Chacon_Rebollo_2023.html>`__", 2023-02-07.
 * John Singler, "`TBA <seminars/John_Singler_2023.html>`__", 2023-02-14.
 * Masayuki Yano, "`TBA <seminars/Masayuki_Yano_2023.html>`__", 2023-02-21.
 * Volker John, "`TBA <seminars/Volker_John_2023.html>`__", 2023-02-28.

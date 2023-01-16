@@ -16,7 +16,7 @@ Seminar by Tomás Chacón Rebollo
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Some techniques for the stabilisation of the pressure discretization in Reduced Order Models of incompressible fluids
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,20 @@ Seminar by Tomás Chacón Rebollo
 
     .. container:: sd-badge-next-text
 
-        TBA
+        In this talk we address the stability of the pressure discretisation for
+        Reduced Order Models (ROMs) of incompressible flows. For Galerkin
+        discretisations of incompressible fluids, the discrete inf-sup condition
+        for the duality velocity - pressure gradient can be achieved to ROMs by
+        adding velocity supremisers (the Riesz representation of the pressure
+        gradient on the velocity space). However, it is rather costly and
+        several alternative strategies can be carried on. Among them,
+        stabilisation techniques or post-processing of the pressure. On one side
+        we shall present several stabilisation procedures that ensure the well
+        posedness of the reduced problem, in norms weaker than the :math:`L^2`
+        norm for the pressure. We apply this technique to the Reduced-Basis
+        solution of the Smagorinsky turbulence model. On another hand we shall
+        study a post-processing of the pressure from divergence-free POD-ROM
+        velocity. We prove error estimates again in a norm weaker than the
+        :math:`L^2` for the pressure.
 
     

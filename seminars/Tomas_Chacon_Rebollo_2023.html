@@ -71,6 +71,7 @@
     <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/design-tabs.js"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../_static/js/external_links.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -237,7 +238,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Some techniques for the stabilisation of the pressure discretization in Reduced Order Models of incompressible fluids</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +251,21 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>In this talk we address the stability of the pressure discretisation for
+Reduced Order Models (ROMs) of incompressible flows. For Galerkin
+discretisations of incompressible fluids, the discrete inf-sup condition
+for the duality velocity - pressure gradient can be achieved to ROMs by
+adding velocity supremisers (the Riesz representation of the pressure
+gradient on the velocity space). However, it is rather costly and
+several alternative strategies can be carried on. Among them,
+stabilisation techniques or post-processing of the pressure. On one side
+we shall present several stabilisation procedures that ensure the well
+posedness of the reduced problem, in norms weaker than the <span class="math notranslate nohighlight">\(L^2\)</span>
+norm for the pressure. We apply this technique to the Reduced-Basis
+solution of the Smagorinsky turbulence model. On another hand we shall
+study a post-processing of the pressure from divergence-free POD-ROM
+velocity. We prove error estimates again in a norm weaker than the
+<span class="math notranslate nohighlight">\(L^2\)</span> for the pressure.</p>
 </div>
 </div>
 </section>
