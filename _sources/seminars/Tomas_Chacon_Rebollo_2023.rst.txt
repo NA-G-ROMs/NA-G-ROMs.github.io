@@ -46,5 +46,8 @@ Seminar by Tomás Chacón Rebollo
         study a post-processing of the pressure from divergence-free POD-ROM
         velocity. We prove error estimates again in a norm weaker than the
         :math:`L^2` for the pressure.
+        
+        This is joint work with Mejdi Azaïez, Juan Casado, Macarena Gómez
+        Mármol, Fraçois Murat and Isabel Sánchez Muñoz.
 
     
