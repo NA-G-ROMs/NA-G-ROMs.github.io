@@ -40,7 +40,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Traian Iliescu, "`TBA <seminars/Traian_Iliescu_2023.html>`__", 2023-01-31.
+        * Traian Iliescu, "`Regularized Reduced Order Models (Reg-ROMs) for Turbulent Flows <seminars/Traian_Iliescu_2023.html>`__", 2023-01-31.
         * Tomás Chacón Rebollo, "`Some techniques for the stabilisation of the pressure discretization in Reduced Order Models of incompressible fluids <seminars/Tomas_Chacon_Rebollo_2023.html>`__", 2023-02-07.
         * John Singler, "`TBA <seminars/John_Singler_2023.html>`__", 2023-02-14.
         +++

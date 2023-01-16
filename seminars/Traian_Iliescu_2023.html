@@ -237,7 +237,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Regularized Reduced Order Models (Reg-ROMs) for Turbulent Flows</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +250,42 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<div class="line-block">
+<div class="line">Over the past decade, several closure and stabilization strategies
+have been developed to tackle the ROM inaccuracy in the
+convection-dominated, under-resolved regime, i.e., when the number of
+degrees of freedom is too small to capture the complex underlying
+dynamics. In this talk, I will survey regularized reduced order models
+(Reg-ROMs), which are simple, modular stabilizations that employ ROM
+spatial filtering of various terms in the Navier-Stokes equations
+(NSE) to alleviate the spurious numerical oscillations generally
+produced by standard ROMs in the convection-dominated, under-resolved
+regime. I will focus on two different types of Reg-ROM strategies: (i)
+the evolve-filter-relax ROM (EFR-ROM), which first filters an
+intermediate velocity approximation, and then relaxes it; and (ii) the
+Leray-ROM (L-ROM), which filters the convective term in the NSE.
+Throughout my talk, I will highlight the impact made by ROM spatial
+filtering on the Reg-ROM development. Specifically, I will talk about
+the two main types of ROM spatial filters: (i) the ROM differential
+filter; and (ii) the ROM projection. I will also propose two novel
+higher-order ROM differential filters. An important role played in ROM
+spatial filters and Reg-ROMs is the ROM lengthscale. In my talk, I
+will put forth a novel ROM lengthscale, which is constructed by
+leveraging energy balancing arguments. I emphasize that this novel
+energy-based lengthscale is fundamentally different from the standard
+ROM lengthscale introduced decades ago, which is based on simple
+dimensional arguments. Finally, I will illustrate the success achieved
+by ROM spatial filters and Reg-ROMs in under-resolved numerical
+simulations of the flow past a cylinder and turbulent channel flow.</div>
+<div class="line">Throughout my talk, I will discuss numerical analysis results proved
+for the Reg-ROMs that we proposed, including fundamental properties,
+e.g., stability, convergence, and parameter scalings. I will also
+present some of the challenges and open questions in the development
+of rigorous numerical analysis foundations for ROM closures and
+stabilizations.</div>
+<div class="line">This talk should be accessible to a wide audience, including students
+and postdocs.</div>
+</div>
 </div>
 </div>
 </section>
