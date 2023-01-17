@@ -10,7 +10,7 @@ Seminar by Yvon Maday
 
     .. container:: sd-badge-next-text
 
-        Yvon Maday (Université Pierre et Marie Curie)
+        Yvon Maday (Sorbonne Université)
 
     :bdg-primary-line:`Title`
 
