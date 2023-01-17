@@ -18,3 +18,4 @@ Upcoming seminars
 * Michael Hinze, "`The reduced basis method with error equivalence for constrained optimal control with PDEs <seminars/Michael_Hinze_2023.html>`__", 2023-05-02.
 * Simona Perotto, "`TBA <seminars/Simona_Perotto_2023.html>`__", 2023-05-09.
 * Yanlai Chen, "`TBA <seminars/Yanlai_Chen_2023.html>`__", 2023-05-16.
+* Yvon Maday, "`TBA <seminars/Yvon_Maday_2023.html>`__", 2023-05-23.
