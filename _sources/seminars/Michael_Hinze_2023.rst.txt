@@ -10,13 +10,13 @@ Seminar by Michael Hinze
 
     .. container:: sd-badge-next-text
 
-        Michael Hinze (Universität Koblenz-Landau)
+        Michael Hinze (Universität Koblenz)
 
     :bdg-primary-line:`Title`
 
     .. container:: sd-badge-next-text
 
-        TBA
+        The reduced basis method with error equivalence for constrained optimal control with PDEs
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,27 @@ Seminar by Michael Hinze
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We present a reduced-basis approach for optimal control problems with
+        constraints, which for a required tolerance seems to deliver lower
+        dimensional RB spaces than reported in the literature so far. Moreover,
+        the approach allows to prove an error equivalence similar to those known
+        from finite element a posteriori error analysis of PDE constrained
+        optimization problems. Numerical test confirm our theoretical findings.
+        
+        Related article can be found in (Ali and Hinze 2020).
+        
+        This is joint work with Ahmad Ahmad Ali.
+        
+        .. container:: references csl-bib-body hanging-indent
+           :name: refs
+        
+           .. container:: csl-entry
+              :name: ref-AliHinze2020
+        
+              Ali, Ahmad Ahmad, and Michael Hinze. 2020. “Reduced Basis
+              Methods–an Application to Variational Discretization of
+              Parametrized Elliptic Optimal Control Problems.” *SIAM Journal on
+              Scientific Computing* 42 (1): A271–91.
+              https://doi.org/10.1137/18M1227147.
 
     
