@@ -16,7 +16,7 @@ Seminar by Tommaso Taddei
 
     .. container:: sd-badge-next-text
 
-        TBA
+        One-shot domain-decomposition methods for component-based model order reduction
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,17 @@ Seminar by Tommaso Taddei
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We discuss the development of optimization-based (one-shot) procedures
+        for component-based (CB) model order reduction (MOR) of parametric
+        nonlinear PDEs. We first devise a constrained optimization procedure
+        that minimizes jumps at components’ interfaces subject to the
+        (approximate) satisfaction of the PDE in each component. Then, we
+        introduce suitable low-dimensional control variables to recast the
+        optimization problem into an unconstrained nonlinear least-square
+        problem that can be effectively solved using the Gauss-Newton method
+        (GNM). We consider both overlapping and non-overlapping domain
+        partitions; furthermore, we apply our method to a nonlinear neo-Hookean
+        problem and to an incompressible Navier-Stokes problem, to demonstrate
+        its effectiveness.
 
     
