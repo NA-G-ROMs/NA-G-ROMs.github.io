@@ -66,4 +66,9 @@ Seminar by Traian Iliescu
         This talk should be accessible to a wide audience, including students
         and postdocs.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=Ev02xbkg5P0>`_.
     

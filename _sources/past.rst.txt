@@ -2,3 +2,4 @@
 
 Past seminars
 =============
+* Traian Iliescu, "`Regularized Reduced Order Models (Reg-ROMs) for Turbulent Flows <seminars/Traian_Iliescu_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=Ev02xbkg5P0`, 2023-01-31.
