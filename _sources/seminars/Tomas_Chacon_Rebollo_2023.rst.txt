@@ -50,4 +50,9 @@ Seminar by Tomás Chacón Rebollo
         This is joint work with Cyrille Alléry, Enrique Delgado, Mourad
         Oulghelou and Samuele Rubino.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=PaH4x1gzNIA>`_.
     
