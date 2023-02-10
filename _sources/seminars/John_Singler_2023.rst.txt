@@ -16,7 +16,7 @@ Seminar by John Singler
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Data approximation capability of proper orthogonal decomposition
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,16 @@ Seminar by John Singler
 
     .. container:: sd-badge-next-text
 
-        TBA
+        In the numerical analysis of Galerkin reduced order models (G-ROMs)
+        based on proper orthogonal decomposition (POD), the data approximation
+        capability of POD plays a crucial role. More specifically, existing
+        approaches to deriving error bounds between the exact solution of the
+        full order model (FOM) and the G-ROM rely on estimates involving the POD
+        data approximation error, i.e., the error between the exact solution
+        data and POD projections of that solution data. We survey advances in
+        POD data approximation theory, and how these results have impacted the
+        numerical analysis of POD G-ROMs for partial differential equations. We
+        consider discrete and continuous data, and different measures of error.
+        We also outline open questions.
 
     
