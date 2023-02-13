@@ -4,7 +4,7 @@ Upcoming seminars
 =================
 * John Singler, "`Data approximation capability of proper orthogonal decomposition <seminars/John_Singler_2023.html>`__", 2023-02-14.
 * Masayuki Yano, "`Model reduction of parametrized aerodynamics problems: error estimation, adaptivity, and nonlinear approximations <seminars/Masayuki_Yano_2023.html>`__", 2023-02-21.
-* Volker John, "`TBA <seminars/Volker_John_2023.html>`__", 2023-02-28.
+* Volker John, "`A SUPG-stabilized POD-ROM method for convection-diffusion-reaction problems <seminars/Volker_John_2023.html>`__", 2023-02-28.
 * Ramon Codina, "`TBA <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
 * Karsten Urban, "`A reduced basis method for the Schrödinger equation <seminars/Karsten_Urban_2023.html>`__", 2023-03-14.
 * Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__", 2023-03-21.
