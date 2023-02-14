@@ -43,4 +43,9 @@ Seminar by John Singler
         consider discrete and continuous data, and different measures of error.
         We also outline open questions.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=3PsXX03ad88>`_.
     
