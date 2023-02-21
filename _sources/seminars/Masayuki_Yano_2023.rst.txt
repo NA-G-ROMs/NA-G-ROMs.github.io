@@ -52,4 +52,9 @@ Seminar by Masayuki Yano
         several orders of magnitude and also provide a posteriori error
         estimates.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=4CT4y7BeGnA>`_.
     

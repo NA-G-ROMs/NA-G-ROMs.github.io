@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Masayuki Yano, "`Model reduction of parametrized aerodynamics problems: error estimation, adaptivity, and nonlinear approximations <seminars/Masayuki_Yano_2023.html>`__", 2023-02-21.
 * Volker John, "`A SUPG-stabilized POD-ROM method for convection-diffusion-reaction problems <seminars/Volker_John_2023.html>`__", 2023-02-28.
 * Ramon Codina, "`TBA <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
 * Karsten Urban, "`A reduced basis method for the Schrödinger equation <seminars/Karsten_Urban_2023.html>`__", 2023-03-14.
