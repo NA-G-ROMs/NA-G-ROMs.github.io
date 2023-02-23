@@ -237,7 +237,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Stabilization and accuracy enhancement using artificial neural networks for reduced order models in flow problems</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +250,35 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Reduced Order Models (ROM) in computational mechanics aim at solving
+problems approximating the solution in spaces of very low dimension. The
+idea is to first solve the Full Order Model (FOM) in a high-fidelity
+space and, from its solution, construct the basis of the ROM space. We
+shall concentrate on the case in which the FOM is solved by means of a
+Finite Element (FE) method and the ROM is obtained from a Proper
+Orthogonal Decomposition (POD) of a series of ’snapshots’, i.e.,
+high-fidelity solutions obtained for example at different time instants
+or for different values of a parameter of the problem to be solved. This
+way, the ROM solution can be considered to belong to a subspace of the
+FOM FE space.</p>
+<p>The Variational Multi-scale (VMS) idea is to split the unknown into the
+resolvable component, in our case living in the FE space, and a
+remainder, called sub-grid scale (SGS). After setting a problem for the
+SGS, this problem is what is in fact approximated somehow, so that the
+SGS can be expressed in terms of the FE solution. When the resulting
+expression is inserted into the equation projected into the FE space,
+one ends up with a problem for the FE unknown with enhanced stability
+problems. The first purpose of this talk is to explain why the VMS
+strategy can be applied quite naturally to the ROM approximation when
+this is based in a FE method to approximate flow problems. This yields a
+stable ROM problem.</p>
+<p>The second objective of the talk is to explain how accuracy can be
+improved using Artificial Neural Networks (ANN). Motivated by the
+structure of the stabilization terms arising from VMS, an additional
+correcting term is added to enhance accuracy. This term is an ANN
+trained with the snapshots, i.e., the high-fidelity solutions used to
+construct the basis of the ROM. Some numerical examples are presented
+showing the improvement obtained with the correcting terms.</p>
 </div>
 </div>
 </section>

@@ -41,7 +41,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         :doc:`Upcoming seminars <upcoming>`
         ^^^
         * Volker John, "`A SUPG-stabilized POD-ROM method for convection-diffusion-reaction problems <seminars/Volker_John_2023.html>`__", 2023-02-28.
-        * Ramon Codina, "`TBA <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
+        * Ramon Codina, "`Stabilization and accuracy enhancement using artificial neural networks for reduced order models in flow problems <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
         * Karsten Urban, "`A reduced basis method for the Schrödinger equation <seminars/Karsten_Urban_2023.html>`__", 2023-03-14.
         +++
         :doc:`Read more <upcoming>`
