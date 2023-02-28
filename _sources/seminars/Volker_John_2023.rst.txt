@@ -45,4 +45,9 @@ Seminar by Volker John
         estimation is sketched. Numerical examples illustrate the performance of
         the SUPG-ROM method.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=_5IpjD4PwFY>`_.
     
