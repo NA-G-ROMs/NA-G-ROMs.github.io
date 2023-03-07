@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Ramon Codina, "`Stabilization and accuracy enhancement using artificial neural networks for reduced order models in flow problems <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
 * Karsten Urban, "`A reduced basis method for the Schrödinger equation <seminars/Karsten_Urban_2023.html>`__", 2023-03-14.
 * Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__", 2023-03-21.
 * Tommaso Taddei, "`One-shot domain-decomposition methods for component-based model order reduction <seminars/Tommaso_Taddei_2023.html>`__", 2023-03-28.

@@ -63,4 +63,9 @@ Seminar by Ramon Codina
         construct the basis of the ROM. Some numerical examples are presented
         showing the improvement obtained with the correcting terms.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=9zCgxRjgiC8>`_.
     

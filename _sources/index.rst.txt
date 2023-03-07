@@ -40,9 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Ramon Codina, "`Stabilization and accuracy enhancement using artificial neural networks for reduced order models in flow problems <seminars/Ramon_Codina_2023.html>`__", 2023-03-07.
         * Karsten Urban, "`A reduced basis method for the Schrödinger equation <seminars/Karsten_Urban_2023.html>`__", 2023-03-14.
         * Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__", 2023-03-21.
+        * Tommaso Taddei, "`One-shot domain-decomposition methods for component-based model order reduction <seminars/Tommaso_Taddei_2023.html>`__", 2023-03-28.
         +++
         :doc:`Read more <upcoming>`
 
@@ -50,9 +50,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Ramon Codina, "`Stabilization and accuracy enhancement using artificial neural networks for reduced order models in flow problems <seminars/Ramon_Codina_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=9zCgxRjgiC8`, 2023-03-07.
         * Volker John, "`A SUPG-stabilized POD-ROM method for convection-diffusion-reaction problems <seminars/Volker_John_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=_5IpjD4PwFY`, 2023-02-28.
         * Masayuki Yano, "`Model reduction of parametrized aerodynamics problems: error estimation, adaptivity, and nonlinear approximations <seminars/Masayuki_Yano_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=4CT4y7BeGnA`, 2023-02-21.
-        * John Singler, "`Data approximation capability of proper orthogonal decomposition <seminars/John_Singler_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=3PsXX03ad88`, 2023-02-14.
         +++
         :doc:`Read more <past>`
 
