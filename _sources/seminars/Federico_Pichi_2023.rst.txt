@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Federico Pichi
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Federico Pichi (École Polytechnique Fédérale de Lausanne)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * April 04, 2023 16:00 CEST+0200 (Europe/Rome)
+        * April 04, 2023 10:00 EDT-0400 (US/Eastern)
+        * April 04, 2023 09:00 CDT-0500 (US/Central)
+        * April 04, 2023 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    
