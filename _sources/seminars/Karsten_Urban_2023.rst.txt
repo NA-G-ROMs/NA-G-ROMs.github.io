@@ -47,4 +47,9 @@ Seminar by Karsten Urban
         space-time variational formulation, especially for non-smooth initial
         data.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=F5qTAcqkP2k>`_.
     
