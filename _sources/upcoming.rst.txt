@@ -4,7 +4,7 @@ Upcoming seminars
 =================
 * Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__", 2023-03-21.
 * Tommaso Taddei, "`One-shot domain-decomposition methods for component-based model order reduction <seminars/Tommaso_Taddei_2023.html>`__", 2023-03-28.
-* Federico Pichi, "`TBA <seminars/Federico_Pichi_2023.html>`__", 2023-04-04.
+* Federico Pichi, "`Projection-based and data-driven reduced order models for parametric bifurcation problems <seminars/Federico_Pichi_2023.html>`__", 2023-04-04.
 * Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
 * Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__", 2023-04-18.
 * Jan Hesthaven, "`TBA <seminars/Jan_Hesthaven_2023.html>`__", 2023-04-25.
