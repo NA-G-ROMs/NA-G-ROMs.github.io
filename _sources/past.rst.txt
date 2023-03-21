@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=VV-tsCyw8XU`, 2023-03-21.
 * Karsten Urban, "`A reduced basis method for the Schrödinger equation <seminars/Karsten_Urban_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=F5qTAcqkP2k`, 2023-03-14.
 * Ramon Codina, "`Stabilization and accuracy enhancement using artificial neural networks for reduced order models in flow problems <seminars/Ramon_Codina_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=9zCgxRjgiC8`, 2023-03-07.
 * Volker John, "`A SUPG-stabilized POD-ROM method for convection-diffusion-reaction problems <seminars/Volker_John_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=_5IpjD4PwFY`, 2023-02-28.
