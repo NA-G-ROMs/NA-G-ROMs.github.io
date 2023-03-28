@@ -44,4 +44,9 @@ Seminar by Tommaso Taddei
         problem and to an incompressible Navier-Stokes problem, to demonstrate
         its effectiveness.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=BIOd2xxlxsM>`_.
     
