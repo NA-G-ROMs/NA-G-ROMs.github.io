@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Federico Pichi, "`Projection-based and data-driven reduced order models for parametric bifurcation problems <seminars/Federico_Pichi_2023.html>`__", 2023-04-04.
 * Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
 * Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__", 2023-04-18.
 * Jan Hesthaven, "`TBA <seminars/Jan_Hesthaven_2023.html>`__", 2023-04-25.

@@ -41,4 +41,9 @@ Seminar by Federico Pichi
         classical bifurcating benchmarks in fluid dynamics held by the
         Navier-Stokes equations and linked to Coanda’s effect.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=diluyA30ifA>`_.
     
