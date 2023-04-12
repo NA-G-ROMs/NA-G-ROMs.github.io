@@ -40,9 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
         * Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__", 2023-04-18.
         * Jan Hesthaven, "`TBA <seminars/Jan_Hesthaven_2023.html>`__", 2023-04-25.
+        * Michael Hinze, "`The reduced basis method with error equivalence for constrained optimal control with PDEs <seminars/Michael_Hinze_2023.html>`__", 2023-05-02.
         +++
         :doc:`Read more <upcoming>`
 
@@ -50,9 +50,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
         * Federico Pichi, "`Projection-based and data-driven reduced order models for parametric bifurcation problems <seminars/Federico_Pichi_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=diluyA30ifA`, 2023-04-04.
         * Tommaso Taddei, "`One-shot domain-decomposition methods for component-based model order reduction <seminars/Tommaso_Taddei_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=BIOd2xxlxsM`, 2023-03-28.
-        * Julia Novo, "`Robust bounds for Proper Orthogonal Decomposition methods applied to the Navier Stokes equations <seminars/Julia_Novo_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=VV-tsCyw8XU`, 2023-03-21.
         +++
         :doc:`Read more <past>`
 
