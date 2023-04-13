@@ -3,7 +3,6 @@
 Upcoming seminars
 =================
 * Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__", 2023-04-18.
-* Jan Hesthaven, "`TBA <seminars/Jan_Hesthaven_2023.html>`__", 2023-04-25.
 * Michael Hinze, "`The reduced basis method with error equivalence for constrained optimal control with PDEs <seminars/Michael_Hinze_2023.html>`__", 2023-05-02.
 * Mejdi Azaiez, "`TBA <seminars/Mejdi_Azaiez_2023.html>`__", 2023-05-09.
 * Yanlai Chen, "`GPT-PINN: Generative Pre-Trained Physics-Informed Neural Networks toward non-intrusive Meta-learning of parametric PDEs <seminars/Yanlai_Chen_2023.html>`__", 2023-05-16.
