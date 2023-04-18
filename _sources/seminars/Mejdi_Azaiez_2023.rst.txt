@@ -16,7 +16,7 @@ Seminar by Mejdi Azaiez
 
     .. container:: sd-badge-next-text
 
-        TBA
+        An intrinsic PGD for parametric symmetric elliptic problems
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,54 @@ Seminar by Mejdi Azaiez
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We introduce a technique for the reduced order approximation of
+        parametric symmetric elliptic partial differential equations. This
+        method is analogous to the best approximation property of the Proper
+        Orthogonal Decomposition (POD) subspaces, excepting that in our case the
+        norm, intrinsic to the problem, is parameter-depending, and then the POD
+        optimal sub-spaces cannot be characterized by means of a spectral
+        problem. We apply a deflation technique to build a series of
+        approximating solutions on finite-dimensional optimal subspaces,
+        directly in the on-line step. We prove that the partial sums converge to
+        the continuous solutions in mean quadratic elliptic norm. We prove the
+        linear convergence of the Power Iterate method applied to compute the
+        modes of the PGD expansion, for both symmetric and non-symmetric
+        problems, when the data are small. We also find a spectral convergence
+        ratio of the PGD expansion in the mean parametric norm, for meaningful
+        parametric elliptic problems. We end the talk by proving that the PGD
+        modes of the discretized problem converge to the PGD modes of the
+        continuous problem, with respect to the discretization of both the
+        parameter set and the elliptic problem afforded. When possible, we will
+        assess our theoretical results by giving some numerical experiments.
+        
+        This talk is based on references (Azaı̈ez, Chacón Rebollo, and Sanchez
+        Muñoz 2023; Azaïez, Chacón Rebollo, and Gómez Mármol 2020; Azaı̈ez et al.
+        2018).
+        
+        .. container:: references csl-bib-body hanging-indent
+           :name: refs
+        
+           .. container:: csl-entry
+              :name: ref-Azaiez2020
+        
+              Azaïez, M., T. Chacón Rebollo, and M. Gómez Mármol. 2020. “On the
+              Computation of Proper Generalized Decomposition Modes of
+              Parametric Elliptic Problems.” *SeMA Journal* 77 (1): 59–72.
+        
+           .. container:: csl-entry
+              :name: ref-Azaiez2018
+        
+              Azaı̈ez, M., F. Ben Belgacem, J. Casado-Dı́az, T. Chacón Rebollo,
+              and F. Murat. 2018. “A New Algorithm of Proper Generalized
+              Decomposition for Parametric Symmetric Elliptic Problems.” *SIAM
+              Journal on Mathematical Analysis* 50 (5): 5426–45.
+        
+           .. container:: csl-entry
+              :name: ref-Azaiez2023
+        
+              Azaı̈ez, M., T. Chacón Rebollo, and S. M. Sanchez Muñoz. 2023.
+              “Numerical Approximation of Proper Generalized Decomposition Modes
+              to Parameterized Elliptic Problems.” *To Appear in SIAM Journal on
+              Scientific Computing*.
 
     
