@@ -41,4 +41,9 @@ Seminar by Mario Ohlberger
         certification and convergence will be presented, as well as numerical
         experiments that demonstrate the efficiency of the proposed approaches.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=Wt7_4ARdMeA>`_.
     
