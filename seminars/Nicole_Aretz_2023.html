@@ -237,7 +237,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Reduced Basis Approximation for Variational Data Assimilation under Model Uncertainty</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +250,32 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Mathematical models, such as partial differential equations (PDEs), are
+widely used to predict the behavior of a physical system. However, any
+model can only provide an approximation to the underlying physics, and
+can be subject to a variety of model errors, such as uncertainties in
+the loading or initial condition. Variational Data Assimilation can be
+used to improve models through the incorporation of measurement data.
+Here, the inverse solution requires many evaluations of the full-order
+forward model, leading to large computational costs. When the described
+system configuration is flexible such that the inverse solution needs to
+be computed for a variety of hyper-parameters, the computational cost
+becomes prohibitive.</p>
+<p>In this talk we present reduced basis (RB) approximations to the 3D-VAR
+and 4D-VAR variational data assimilation methods posed over
+hyper-parameterized PDEs with linear model uncertainties. An extension
+to non-linear inverse problems is shown. After a preparatory offline
+phase, the RB-3D-VAR and RB-4D-VAR methods can be evaluated at
+significantly reduced cost, thereby enabling many-query approximations
+of the inverse solutions for different hyper-parameters and data, while
+the approximation error can be monitored through rigorous and certified
+a posteriori error bounds. Focussing on stability theory results, we
+describe common challenges in these types of RB minimizations, in
+particular regarding Petrov-Galerkin structures and the role of the
+adjoint, and discuss tangible approaches for their mitigation. We
+demonstrate our results on a large-scale geophysical model of the Perth
+Basin, and on a contaminant-dispersion problem over a Taylor-Green
+vortex velocity field.</p>
 </div>
 </div>
 </section>
