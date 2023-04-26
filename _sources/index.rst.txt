@@ -40,9 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Nicole Aretz, "`Reduced Basis Approximation for Variational Data Assimilation under Model Uncertainty <seminars/Nicole_Aretz_2023.html>`__", 2023-04-25.
         * Michael Hinze, "`The reduced basis method with error equivalence for constrained optimal control with PDEs <seminars/Michael_Hinze_2023.html>`__", 2023-05-02.
         * Mejdi Azaiez, "`An intrinsic PGD for parametric symmetric elliptic problems <seminars/Mejdi_Azaiez_2023.html>`__", 2023-05-09.
+        * Yanlai Chen, "`GPT-PINN: Generative Pre-Trained Physics-Informed Neural Networks toward non-intrusive Meta-learning of parametric PDEs <seminars/Yanlai_Chen_2023.html>`__", 2023-05-16.
         +++
         :doc:`Read more <upcoming>`
 
@@ -50,9 +50,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Nicole Aretz, "`Reduced Basis Approximation for Variational Data Assimilation under Model Uncertainty <seminars/Nicole_Aretz_2023.html>`__", 2023-04-25.
         * Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=Wt7_4ARdMeA`, 2023-04-18.
         * Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
-        * Federico Pichi, "`Projection-based and data-driven reduced order models for parametric bifurcation problems <seminars/Federico_Pichi_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=diluyA30ifA`, 2023-04-04.
         +++
         :doc:`Read more <past>`
 
