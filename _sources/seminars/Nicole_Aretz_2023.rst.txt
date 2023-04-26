@@ -59,4 +59,9 @@ Seminar by Nicole Aretz
         Basin, and on a contaminant-dispersion problem over a Taylor-Green
         vortex velocity field.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=_OG5M_MT4js>`_.
     
