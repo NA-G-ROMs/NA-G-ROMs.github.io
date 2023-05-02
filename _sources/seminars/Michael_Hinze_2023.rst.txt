@@ -54,4 +54,9 @@ Seminar by Michael Hinze
               Scientific Computing* 42 (1): A271–91.
               https://doi.org/10.1137/18M1227147.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=sRZXGEOSA2Q>`_.
     

@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Michael Hinze, "`The reduced basis method with error equivalence for constrained optimal control with PDEs <seminars/Michael_Hinze_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=sRZXGEOSA2Q`, 2023-05-02.
 * Nicole Aretz, "`Reduced Basis Approximation for Variational Data Assimilation under Model Uncertainty <seminars/Nicole_Aretz_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=_OG5M_MT4js`, 2023-04-25.
 * Mario Ohlberger, "`Model Reduction and Learning for PDE Constrained Optimization <seminars/Mario_Ohlberger_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=Wt7_4ARdMeA`, 2023-04-18.
 * Harbir Antil, "`Adaptive Randomized Sketching for Dynamic Nonsmooth Optimization <seminars/Harbir_Antil_2023.html>`__", 2023-04-11.
