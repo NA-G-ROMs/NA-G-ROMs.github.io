@@ -81,4 +81,9 @@ Seminar by Mejdi Azaiez
               to Parameterized Elliptic Problems.” *To Appear in SIAM Journal on
               Scientific Computing*.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=Q5NAN5Arnac>`_.
     
