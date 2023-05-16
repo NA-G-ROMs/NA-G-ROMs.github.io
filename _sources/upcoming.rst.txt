@@ -2,5 +2,4 @@
 
 Upcoming seminars
 =================
-* Yanlai Chen, "`GPT-PINN: Generative Pre-Trained Physics-Informed Neural Networks toward non-intrusive Meta-learning of parametric PDEs <seminars/Yanlai_Chen_2023.html>`__", 2023-05-16.
 * Yvon Maday, "`Nonlinear compressive reduced basis approximation for PDE's <seminars/Yvon_Maday_2023.html>`__", 2023-05-23.
