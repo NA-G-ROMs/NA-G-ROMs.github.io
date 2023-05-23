@@ -69,4 +69,9 @@ Seminar by Yvon Maday
               2023. “Nonlinear Compressive Reduced Basis Approximation for
               PDE’s.” *Comptes Rendus Académie Des Sciences*.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=k7uzIyROHQM>`_.
     

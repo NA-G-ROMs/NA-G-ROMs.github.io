@@ -2,4 +2,3 @@
 
 Upcoming seminars
 =================
-* Yvon Maday, "`Nonlinear compressive reduced basis approximation for PDE's <seminars/Yvon_Maday_2023.html>`__", 2023-05-23.

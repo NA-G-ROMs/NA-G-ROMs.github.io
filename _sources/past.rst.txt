@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Yvon Maday, "`Nonlinear compressive reduced basis approximation for PDE's <seminars/Yvon_Maday_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=k7uzIyROHQM`, 2023-05-23.
 * Yanlai Chen, "`GPT-PINN: Generative Pre-Trained Physics-Informed Neural Networks toward non-intrusive Meta-learning of parametric PDEs <seminars/Yanlai_Chen_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=KWaWH7xeVEg`, 2023-05-16.
 * Mejdi Azaiez, "`An intrinsic PGD for parametric symmetric elliptic problems <seminars/Mejdi_Azaiez_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=Q5NAN5Arnac`, 2023-05-09.
 * Michael Hinze, "`The reduced basis method with error equivalence for constrained optimal control with PDEs <seminars/Michael_Hinze_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=sRZXGEOSA2Q`, 2023-05-02.
