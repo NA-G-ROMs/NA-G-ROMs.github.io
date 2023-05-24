@@ -40,6 +40,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
+        NA G-ROMs seminars will be back in Fall 2023.
         +++
         :doc:`Read more <upcoming>`
 
