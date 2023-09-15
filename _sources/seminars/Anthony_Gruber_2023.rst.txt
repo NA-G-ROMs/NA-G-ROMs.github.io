@@ -1,0 +1,47 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Anthony Gruber
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Anthony Gruber (Sandia National Laboratories)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        Property-preserving model reduction for conservative and dissipative systems
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * October 10, 2023 16:00 CEST+0200 (Europe/Rome)
+        * October 10, 2023 10:00 EDT-0400 (US/Eastern)
+        * October 10, 2023 09:00 CDT-0500 (US/Central)
+        * October 10, 2023 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        The dynamics of a physical system are implicitly constrained by
+        conservation laws which are largely responsible for the behavior of its
+        solutions. However, standard methods of model reduction frequently used
+        in practice violate these relationships, leading to artificial numerical
+        instability and poor generalization performance in the resulting
+        low-order surrogates. To remedy this, some of the authors’ recent work
+        on intrusive and non-intrusive model reduction for Hamiltonian and
+        metriplectic systems is presented. Particularly, it is shown that
+        ensuring an appropriate variational structure in the reduced model leads
+        to exact property-preservation, improved stability, and robust long-time
+        behavior, at computational costs reasonably competitive with
+        general-purpose methods.
+
+    

@@ -40,7 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        NA G-ROMs seminars will be back in Fall 2023.
+        * Anthony Gruber, "`Property-preserving model reduction for conservative and dissipative systems <seminars/Anthony_Gruber_2023.html>`__", 2023-10-10.
+        * Xiantao Li, "`TBA <seminars/Xiantao_Li_2023.html>`__", 2023-10-17.
+        * TBA, "`TBA <seminars/TBA_2023.html>`__", 2023-10-24.
         +++
         :doc:`Read more <upcoming>`
 

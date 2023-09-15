@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Jiahua Jiang
+===============================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Jiahua Jiang (University of Birmingham)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * December 12, 2023 16:00 CET+0100 (Europe/Rome)
+        * December 12, 2023 10:00 EST-0500 (US/Eastern)
+        * December 12, 2023 09:00 CST-0600 (US/Central)
+        * December 12, 2023 07:00 PST-0800 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    
