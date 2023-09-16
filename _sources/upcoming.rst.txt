@@ -6,9 +6,9 @@ Upcoming seminars
 * Xiantao Li, "`TBA <seminars/Xiantao_Li_2023.html>`__", 2023-10-17.
 * TBA, "`TBA <seminars/TBA_2023.html>`__", 2023-10-24.
 * Nan Chen, "`TBA <seminars/Nan_Chen_2023.html>`__", 2023-10-31.
+* Ricardo Reyes, "`TBA <seminars/Ricardo_Reyes_2023.html>`__", 2023-11-07.
 * Cecilia Pagliantini, "`TBA <seminars/Cecilia_Pagliantini_2023.html>`__", 2023-11-14.
 * Akil Narayan, "`TBA <seminars/Akil_Narayan_2023.html>`__", 2023-11-21.
 * Honghu Liu, "`TBA <seminars/Honghu_Liu_2023.html>`__", 2023-11-28.
-* Ricardo Reyes, "`TBA <seminars/Ricardo_Reyes_2023.html>`__", 2023-11-07.
-* Jiahua Jiang, "`TBA <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
 * Maxim Olshanskii, "`TBA <seminars/Maxim_Olshanskii_2023.html>`__", 2023-12-05.
+* Jiahua Jiang, "`TBA <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
