@@ -16,7 +16,7 @@ Seminar by Gianluigi Rozza
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,31 @@ Seminar by Gianluigi Rozza
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We provide the state of the art of Reduced Order Methods (ROM) for
+        parametric Partial Differential Equations (PDEs), and we focus on some
+        perspectives in their current trends and developments, with a special
+        interest in parametric problems arising in offline-online Computational
+        Fluid Dynamics (CFD). Efficient parametrisations (random inputs,
+        geometry, physics) are very important to be able to properly address an
+        offline-online decoupling of the computational procedures and to allow
+        competitive computational performances. Current ROM developments in CFD
+        include: (i) a better use of stable high fidelity methods, to enhance
+        the quality of the reduced model too, also in presence of bifurcations
+        and loss of uniqueness of the solution itself, (ii) capability to
+        incorporate turbulence models and to increase the Reynolds number; (iii)
+        more efficient sampling techniques to reduce the number of the basis
+        functions, retained as snapshots, as well as the dimension of online
+        systems; (iv) the improvements of the certification of accuracy,
+        established on residual based error bounds, and of the stability
+        factors, as well as (v) the guarantee of the stability of the
+        approximation with proper space enrichments. All the previous aspects
+        are quite relevant – and often challenging – in CFD problems to focus on
+        real time simulations for complex parametric industrial, environmental
+        and biomedical flow problems, or even in a control flow setting with
+        data assimilation and uncertainty quantification. Some model problems
+        will be illustrated by focusing on few benchmark study cases, for
+        example on simplefluid-structure interaction problems and on shape
+        optimisation, applied to some industrial and environmental problems of
+        interest.
 
     

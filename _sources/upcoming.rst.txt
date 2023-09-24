@@ -2,7 +2,7 @@
 
 Upcoming seminars
 =================
-* Gianluigi Rozza, "`TBA <seminars/Gianluigi_Rozza_2023.html>`__", 2023-10-02.
+* Gianluigi Rozza, "`Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives <seminars/Gianluigi_Rozza_2023.html>`__", 2023-10-02.
 * Anthony Gruber, "`Property-preserving model reduction for conservative and dissipative systems <seminars/Anthony_Gruber_2023.html>`__", 2023-10-10.
 * Xiantao Li, "`TBA <seminars/Xiantao_Li_2023.html>`__", 2023-10-17.
 * TBA, "`TBA <seminars/TBA_2023.html>`__", 2023-10-24.
