@@ -42,7 +42,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * Gianluigi Rozza, "`Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives <seminars/Gianluigi_Rozza_2023.html>`__", 2023-10-02.
         * Anthony Gruber, "`Property-preserving model reduction for conservative and dissipative systems <seminars/Anthony_Gruber_2023.html>`__", 2023-10-10.
-        * Xiantao Li, "`TBA <seminars/Xiantao_Li_2023.html>`__", 2023-10-17.
+        * Xiantao Li, "`Reduced-order modeling techniques in computational chemistry <seminars/Xiantao_Li_2023.html>`__", 2023-10-17.
         +++
         :doc:`Read more <upcoming>`
 
