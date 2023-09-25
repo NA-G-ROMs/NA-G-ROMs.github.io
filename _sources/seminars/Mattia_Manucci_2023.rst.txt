@@ -2,7 +2,7 @@
 
 :orphan:
 
-Seminar by TBA
+Seminar by Mattia Manucci
 ===============================
 .. container:: sd-badge-seminar-container
 
@@ -10,7 +10,7 @@ Seminar by TBA
 
     .. container:: sd-badge-next-text
 
-        TBA (TBA)
+        Mattia Manucci (Universität Stuttgart)
 
     :bdg-primary-line:`Title`
 
