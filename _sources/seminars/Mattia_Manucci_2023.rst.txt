@@ -16,7 +16,7 @@ Seminar by Mattia Manucci
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Contour Integral Methods and Eigenvalues approximation for projection MOR
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,40 @@ Seminar by Mattia Manucci
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We present a numerical method for efficiently and reliably solving
+        parametrized time-dependent partial differential equations (PPDEs). An
+        important consideration for the addressed problems is that not all
+        dynamics are significant; rather, only the solution at a given final
+        time :math:`t = T` or within a time window :math:`[T\Lambda^{-1},\;T]`,
+        where :math:`\Lambda > 1`, of moderate size.
+        
+        In the first part of the talk, methods based on the Laplace transform
+        and its numerical inversion are introduced. These methods, also known as
+        contour integral methods, are well-suited for solving ordinary
+        differential equations (ODEs) that arise from the discretization of
+        linear parabolic PDEs. A notable advantage of this approach is that,
+        unlike time-stepping methods such as Runge-Kutta integrators, the
+        Laplace transform enables direct computation of the solution at a
+        specific instant. This can be achieved by approximating the contour
+        integral associated with the inverse Laplace transform using a suitable
+        quadrature formula. Furthermore, the proposed approach automatically
+        yields an approximation of the solution with a prescribed level of
+        accuracy.
+        
+        The second part of the talk discusses a projection model order reduction
+        (MOR) method that employs the contour integral methods as a time
+        integrator. With respect to some classical MOR methodology, like the one
+        based on the classical proper orthogonal decomposition (POD), this
+        determines a significant improvement in the reduction phase since the
+        number of vectors to which the decomposition applies is drastically
+        reduced as it does not contain all intermediate solutions generated
+        along an integration grid by a time stepping method.
+        
+        Finally, the last part is dedicated to the numerically efficient and
+        reliable approximation of eigenvalues and singular values associated
+        with parametrically dependent matrices. Specifically, the focus lies on
+        approximating the smallest eigenvalue and/or singular value, as this is
+        crucial for the efficiency of greedy strategies in constructing reduced
+        spaces within projection MOR.
 
     

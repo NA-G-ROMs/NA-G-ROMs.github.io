@@ -71,6 +71,7 @@
     <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/design-tabs.js"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../_static/js/external_links.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -237,7 +238,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Contour Integral Methods and Eigenvalues approximation for projection MOR</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +251,38 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>We present a numerical method for efficiently and reliably solving
+parametrized time-dependent partial differential equations (PPDEs). An
+important consideration for the addressed problems is that not all
+dynamics are significant; rather, only the solution at a given final
+time <span class="math notranslate nohighlight">\(t = T\)</span> or within a time window <span class="math notranslate nohighlight">\([T\Lambda^{-1},\;T]\)</span>,
+where <span class="math notranslate nohighlight">\(\Lambda &gt; 1\)</span>, of moderate size.</p>
+<p>In the first part of the talk, methods based on the Laplace transform
+and its numerical inversion are introduced. These methods, also known as
+contour integral methods, are well-suited for solving ordinary
+differential equations (ODEs) that arise from the discretization of
+linear parabolic PDEs. A notable advantage of this approach is that,
+unlike time-stepping methods such as Runge-Kutta integrators, the
+Laplace transform enables direct computation of the solution at a
+specific instant. This can be achieved by approximating the contour
+integral associated with the inverse Laplace transform using a suitable
+quadrature formula. Furthermore, the proposed approach automatically
+yields an approximation of the solution with a prescribed level of
+accuracy.</p>
+<p>The second part of the talk discusses a projection model order reduction
+(MOR) method that employs the contour integral methods as a time
+integrator. With respect to some classical MOR methodology, like the one
+based on the classical proper orthogonal decomposition (POD), this
+determines a significant improvement in the reduction phase since the
+number of vectors to which the decomposition applies is drastically
+reduced as it does not contain all intermediate solutions generated
+along an integration grid by a time stepping method.</p>
+<p>Finally, the last part is dedicated to the numerically efficient and
+reliable approximation of eigenvalues and singular values associated
+with parametrically dependent matrices. Specifically, the focus lies on
+approximating the smallest eigenvalue and/or singular value, as this is
+crucial for the efficiency of greedy strategies in constructing reduced
+spaces within projection MOR.</p>
 </div>
 </div>
 </section>
