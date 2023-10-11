@@ -2,7 +2,7 @@
 
 Past seminars
 =============
-* Anthony Gruber, "`Property-preserving model reduction for conservative and dissipative systems <seminars/Anthony_Gruber_2023.html>`__", 2023-10-10.
+* Anthony Gruber, "`Property-preserving model reduction for conservative and dissipative systems <seminars/Anthony_Gruber_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=k-XQqkfPPdc`, 2023-10-10.
 * Gianluigi Rozza, "`Reduced Order Modelling in Computational Fluid Dynamics: state of the art, challenges and perspectives <seminars/Gianluigi_Rozza_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=uqrkVeIdLl0`, 2023-10-02.
 * Yvon Maday, "`Nonlinear compressive reduced basis approximation for PDE's <seminars/Yvon_Maday_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=k7uzIyROHQM`, 2023-05-23.
 * Yanlai Chen, "`GPT-PINN: Generative Pre-Trained Physics-Informed Neural Networks toward non-intrusive Meta-learning of parametric PDEs <seminars/Yanlai_Chen_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=KWaWH7xeVEg`, 2023-05-16.

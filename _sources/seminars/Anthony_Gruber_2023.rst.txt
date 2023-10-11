@@ -44,4 +44,9 @@ Seminar by Anthony Gruber
         behavior, at computational costs reasonably competitive with
         general-purpose methods.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=k-XQqkfPPdc>`_.
     
