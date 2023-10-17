@@ -46,4 +46,9 @@ Seminar by Xiantao Li
         challenges and establishes a direct link with the Mori-Zwanzig
         framework.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=15UsLUPuQho>`_.
     

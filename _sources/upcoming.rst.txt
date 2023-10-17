@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Xiantao Li, "`Reduced-order modeling techniques in computational chemistry <seminars/Xiantao_Li_2023.html>`__", 2023-10-17.
 * Mattia Manucci, "`Contour Integral Methods and Eigenvalues approximation for projection MOR <seminars/Mattia_Manucci_2023.html>`__", 2023-10-24.
 * Nan Chen, "`Stochastic and Statistical Reduced-Order Models <seminars/Nan_Chen_2023.html>`__", 2023-10-31.
 * Ricardo Reyes, "`TBA <seminars/Ricardo_Reyes_2023.html>`__", 2023-11-07.
