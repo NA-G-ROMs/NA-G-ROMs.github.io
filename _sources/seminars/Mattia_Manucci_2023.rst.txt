@@ -67,4 +67,9 @@ Seminar by Mattia Manucci
         crucial for the efficiency of greedy strategies in constructing reduced
         spaces within projection MOR.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=RmlqCQ5vxcE>`_.
     
