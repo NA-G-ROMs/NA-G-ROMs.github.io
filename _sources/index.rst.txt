@@ -42,7 +42,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * Nan Chen, "`Stochastic and Statistical Reduced-Order Models <seminars/Nan_Chen_2023.html>`__", 2023-10-31.
         * Ricardo Reyes, "`TBA <seminars/Ricardo_Reyes_2023.html>`__", 2023-11-07.
-        * Cecilia Pagliantini, "`TBA <seminars/Cecilia_Pagliantini_2023.html>`__", 2023-11-14.
+        * Cecilia Pagliantini, "`Structure-preserving nonlinear model order reduction of parametric Hamiltonian systems <seminars/Cecilia_Pagliantini_2023.html>`__", 2023-11-14.
         +++
         :doc:`Read more <upcoming>`
 
