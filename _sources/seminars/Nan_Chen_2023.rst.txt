@@ -46,4 +46,9 @@ Seminar by Nan Chen
         reduced-order models can reversely help develop more sophisticated
         physical models that characterize a real atmosphere-ocean phenomenon.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=e69OPcKRAF4>`_.
     
