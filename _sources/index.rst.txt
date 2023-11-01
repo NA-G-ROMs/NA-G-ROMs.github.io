@@ -42,7 +42,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * Ricardo Reyes, "`The Frequency Reduced Basis method, the Laplace transform and Reduced Order Models for time-dependent problems <seminars/Ricardo_Reyes_2023.html>`__", 2023-11-07.
         * Cecilia Pagliantini, "`Structure-preserving nonlinear model order reduction of parametric Hamiltonian systems <seminars/Cecilia_Pagliantini_2023.html>`__", 2023-11-14.
-        * Akil Narayan, "`TBA <seminars/Akil_Narayan_2023.html>`__", 2023-11-21.
+        * Akil Narayan, "`Estimates for Hankel singular value decay of stable dynamical systems <seminars/Akil_Narayan_2023.html>`__", 2023-11-21.
         +++
         :doc:`Read more <upcoming>`
 

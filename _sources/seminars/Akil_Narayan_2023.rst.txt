@@ -16,7 +16,7 @@ Seminar by Akil Narayan
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Estimates for Hankel singular value decay of stable dynamical systems
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,27 @@ Seminar by Akil Narayan
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Projection-based (linear) model reduction for linear dynamical systems
+        is an effective tool for capturing dynamics of large systems using
+        parsimonious linear representations in a lower-dimensional space. There
+        are myriad strategies for constructing such reduced-order models, and
+        the effectiveness of reduced order modeling is often computationally
+        analyzed by inspecting the decay or decay rate of the Hankel singular
+        values of the system.
+        
+        In this talk we’ll present new analysis for a straightforward greedy
+        construction of a rational function approximation for the transfer
+        function of stable large-scale dynamical systems. This new analysis,
+        which immediately reveals corresponding algorithms, provides explicit
+        rational approximability estimates of transfer functions in the
+        H-infinity norm. The estimates involve sectorial properties of the
+        system matrices, which provide a quantification of notions of
+        dissipation-dominance or transport-dominance in dynamical systems. The
+        theoretical constructions correspond to explicit Galerkin
+        projection-based reduced order models of the original system, and hence
+        this analysis provides concrete estimates of Hankel singular value
+        decay. The framework we discuss is a paradigm that forges concrete
+        relationships between rational approximation, Kolmogorov n-widths, and
+        Galerkin projection-based model reduction.
 
     
