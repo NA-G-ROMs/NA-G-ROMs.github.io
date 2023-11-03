@@ -5,6 +5,6 @@ Upcoming seminars
 * Ricardo Reyes, "`The Frequency Reduced Basis method, the Laplace transform and Reduced Order Models for time-dependent problems <seminars/Ricardo_Reyes_2023.html>`__", 2023-11-07.
 * Cecilia Pagliantini, "`Structure-preserving nonlinear model order reduction of parametric Hamiltonian systems <seminars/Cecilia_Pagliantini_2023.html>`__", 2023-11-14.
 * Akil Narayan, "`Estimates for Hankel singular value decay of stable dynamical systems <seminars/Akil_Narayan_2023.html>`__", 2023-11-21.
-* Honghu Liu, "`TBA <seminars/Honghu_Liu_2023.html>`__", 2023-11-28.
+* Honghu Liu, "`Galerkin Approximations of Nonlinear DDEs: Convergence Analysis and Applications to Noise-Driven Chaos <seminars/Honghu_Liu_2023.html>`__", 2023-11-28.
 * Maxim Olshanskii, "`TBA <seminars/Maxim_Olshanskii_2023.html>`__", 2023-12-05.
 * Jiahua Jiang, "`TBA <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
