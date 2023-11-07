@@ -45,4 +45,9 @@ Seminar by Ricardo Reyes
         needed frequencies are captured, and how the method generates reduced
         bases with orthogonal, complex and symplectic structure.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=qTuRbS8yzX4>`_.
     
