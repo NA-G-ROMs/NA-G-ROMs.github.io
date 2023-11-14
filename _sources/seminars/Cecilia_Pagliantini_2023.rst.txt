@@ -48,4 +48,9 @@ Seminar by Cecilia Pagliantini
         full model and to ensure that the hyper-reduced flow retains the
         physical properties of the original model.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=osy2rdOwiV0>`_.
     

@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Cecilia Pagliantini, "`Structure-preserving nonlinear model order reduction of parametric Hamiltonian systems <seminars/Cecilia_Pagliantini_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=osy2rdOwiV0`, 2023-11-14.
 * Ricardo Reyes, "`The Frequency Reduced Basis method, the Laplace transform and Reduced Order Models for time-dependent problems <seminars/Ricardo_Reyes_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=qTuRbS8yzX4`, 2023-11-07.
 * Nan Chen, "`Stochastic and Statistical Reduced-Order Models <seminars/Nan_Chen_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=e69OPcKRAF4`, 2023-10-31.
 * Mattia Manucci, "`Contour Integral Methods and Eigenvalues approximation for projection MOR <seminars/Mattia_Manucci_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=RmlqCQ5vxcE`, 2023-10-24.
