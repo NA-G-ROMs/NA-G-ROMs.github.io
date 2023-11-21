@@ -54,4 +54,9 @@ Seminar by Akil Narayan
         relationships between rational approximation, Kolmogorov n-widths, and
         Galerkin projection-based model reduction.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=iarTvYNDVeg>`_.
     
