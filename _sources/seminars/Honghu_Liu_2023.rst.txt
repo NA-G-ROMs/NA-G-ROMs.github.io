@@ -52,4 +52,9 @@ Seminar by Honghu Liu
         using a cloud-rain DDE model in the context of Hopf bifurcations and
         noise-driven chaos.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=-gaLfEjbks0>`_.
     
