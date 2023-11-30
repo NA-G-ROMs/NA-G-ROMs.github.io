@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Kathrin Smetana
+=================================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Kathrin Smetana (Stevens Institute of Technology)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * March 26, 2024 15:00 CET+0100 (Europe/Rome)
+        * March 26, 2024 10:00 EDT-0400 (US/Eastern)
+        * March 26, 2024 09:00 CDT-0500 (US/Central)
+        * March 26, 2024 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

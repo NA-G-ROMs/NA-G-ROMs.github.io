@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Ramon Codina
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

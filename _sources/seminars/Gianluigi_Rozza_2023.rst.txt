@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Gianluigi Rozza
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

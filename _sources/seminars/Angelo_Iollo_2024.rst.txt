@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Angelo Iollo
+=================================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Angelo Iollo (University of Bordeaux and Inria Bordeaux Sud-Ouest)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * March 12, 2024 16:00 CET+0100 (Europe/Rome)
+        * March 12, 2024 11:00 EDT-0400 (US/Eastern)
+        * March 12, 2024 10:00 CDT-0500 (US/Central)
+        * March 12, 2024 08:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

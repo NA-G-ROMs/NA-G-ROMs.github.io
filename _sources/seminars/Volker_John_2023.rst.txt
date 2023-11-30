@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Volker John
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

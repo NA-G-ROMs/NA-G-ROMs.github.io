@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Harbir Antil
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

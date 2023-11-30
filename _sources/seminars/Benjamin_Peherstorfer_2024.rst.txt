@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Benjamin Peherstorfer
+=================================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Benjamin Peherstorfer (Courant Institute of Mathematical Sciences)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * March 05, 2024 16:00 CET+0100 (Europe/Rome)
+        * March 05, 2024 10:00 EST-0500 (US/Eastern)
+        * March 05, 2024 09:00 CST-0600 (US/Central)
+        * March 05, 2024 07:00 PST-0800 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

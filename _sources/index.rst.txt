@@ -42,6 +42,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * Maxim Olshanskii, "`A tensor POD-ROM for parameter dependent dynamical systems <seminars/Maxim_Olshanskii_2023.html>`__", 2023-12-05.
         * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
+        * Stefan Volkwein, "`TBA <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
         +++
         :doc:`Read more <upcoming>`
 

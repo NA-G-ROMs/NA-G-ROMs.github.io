@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by John Singler
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

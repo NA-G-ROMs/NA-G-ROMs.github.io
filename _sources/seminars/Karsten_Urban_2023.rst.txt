@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Karsten Urban
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

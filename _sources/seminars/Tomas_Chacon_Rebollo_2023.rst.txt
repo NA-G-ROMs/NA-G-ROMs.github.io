@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Tomás Chacón Rebollo
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

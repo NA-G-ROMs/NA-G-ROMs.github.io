@@ -4,3 +4,19 @@ Upcoming seminars
 =================
 * Maxim Olshanskii, "`A tensor POD-ROM for parameter dependent dynamical systems <seminars/Maxim_Olshanskii_2023.html>`__", 2023-12-05.
 * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
+* Stefan Volkwein, "`TBA <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
+* Silke Glas, "`TBA <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
+* TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-06.
+* TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-13.
+* Ping-Hsuan Tsai, "`TBA <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
+* TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-27.
+* Benjamin Peherstorfer, "`TBA <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
+* Angelo Iollo, "`TBA <seminars/Angelo_Iollo_2024.html>`__", 2024-03-12.
+* Fei Lu, "`TBA <seminars/Fei_Lu_2024.html>`__", 2024-03-19.
+* Kathrin Smetana, "`TBA <seminars/Kathrin_Smetana_2024.html>`__", 2024-03-26.
+* Samuele Rubino, "`TBA <seminars/Samuele_Rubino_2024.html>`__", 2024-04-02.
+* Enrique Delgado Ávila, "`TBA <seminars/Enrique_Delgado_Avila_2024.html>`__", 2024-04-09.
+* Martin Grepl, "`TBA <seminars/Martin_Grepl_2024.html>`__", 2024-04-16.
+* Simona Perotto, "`TBA <seminars/Simona_Perotto_2024.html>`__", 2024-04-23.
+* Irina Tezaur, "`TBA <seminars/Irina_Tezaur_2024.html>`__", 2024-04-30.
+* Alessandro Veneziani, "`TBA <seminars/Alessandro_Veneziani_2024.html>`__", 2024-05-07.

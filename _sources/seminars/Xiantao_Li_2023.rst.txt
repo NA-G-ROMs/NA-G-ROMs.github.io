@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Xiantao Li
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

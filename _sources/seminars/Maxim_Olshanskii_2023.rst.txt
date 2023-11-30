@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Maxim Olshanskii
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

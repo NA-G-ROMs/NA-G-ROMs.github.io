@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Fei Lu
+=================================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Fei Lu (Johns Hopkins University)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * March 19, 2024 15:00 CET+0100 (Europe/Rome)
+        * March 19, 2024 10:00 EDT-0400 (US/Eastern)
+        * March 19, 2024 09:00 CDT-0500 (US/Central)
+        * March 19, 2024 07:00 PDT-0700 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

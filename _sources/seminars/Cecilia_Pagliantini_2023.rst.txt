@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Cecilia Pagliantini
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

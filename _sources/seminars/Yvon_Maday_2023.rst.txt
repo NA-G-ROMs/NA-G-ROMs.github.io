@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Yvon Maday
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

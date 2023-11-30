@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Nan Chen
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`

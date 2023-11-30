@@ -3,7 +3,7 @@
 :orphan:
 
 Seminar by Honghu Liu
-===============================
+=================================
 .. container:: sd-badge-seminar-container
 
     :bdg-primary-line:`Speaker`
