@@ -1,0 +1,36 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Virginie Ehrlacher
+=================================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Virginie Ehrlacher (Ecole des Ponts ParisTech)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * February 13, 2024 16:00 CET+0100 (Europe/Rome)
+        * February 13, 2024 10:00 EST-0500 (US/Eastern)
+        * February 13, 2024 09:00 CST-0600 (US/Central)
+        * February 13, 2024 07:00 PST-0800 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        TBA
+
+    

@@ -6,7 +6,7 @@ Upcoming seminars
 * Stefan Volkwein, "`TBA <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
 * Silke Glas, "`TBA <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
 * TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-06.
-* TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-13.
+* Virginie Ehrlacher, "`TBA <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
 * Ping-Hsuan Tsai, "`TBA <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
 * TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-27.
 * Benjamin Peherstorfer, "`TBA <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
