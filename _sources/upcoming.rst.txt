@@ -5,7 +5,7 @@ Upcoming seminars
 * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
 * Stefan Volkwein, "`TBA <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
 * Silke Glas, "`TBA <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
-* TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-06.
+* Youngsoo Choi, "`TBA <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
 * Virginie Ehrlacher, "`TBA <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
 * Ping-Hsuan Tsai, "`TBA <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
 * TBA, "`TBA <seminars/TBA_2024.html>`__", 2024-02-27.
