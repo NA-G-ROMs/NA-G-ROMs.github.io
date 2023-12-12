@@ -40,9 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__", 2023-12-12.
         * Stefan Volkwein, "`TBA <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
         * Silke Glas, "`TBA <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
+        * Youngsoo Choi, "`TBA <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
         +++
         :doc:`Read more <upcoming>`
 
@@ -50,9 +50,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=H3FST30lbpQ`, 2023-12-12.
         * Maxim Olshanskii, "`A tensor POD-ROM for parameter dependent dynamical systems <seminars/Maxim_Olshanskii_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=i3Hfgj83zgE`, 2023-12-05.
         * Honghu Liu, "`Galerkin Approximations of Nonlinear DDEs: Convergence Analysis and Applications to Noise-Driven Chaos <seminars/Honghu_Liu_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=-gaLfEjbks0`, 2023-11-28.
-        * Akil Narayan, "`Estimates for Hankel singular value decay of stable dynamical systems <seminars/Akil_Narayan_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=iarTvYNDVeg`, 2023-11-21.
         +++
         :doc:`Read more <past>`
 
