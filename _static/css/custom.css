@@ -1,38 +1,39 @@
 /* Customize palette */
 button[data-md-color-primary=nagroms] {
-    background-color: #00325c
+    background-color: #00325c;
 }
 
 [data-md-color-primary=nagroms] .md-typeset a {
-    color: #00325c
+    color: #00325c;
+    text-decoration: underline;
 }
 
 [data-md-color-primary=nagroms] .md-header,
 [data-md-color-primary=nagroms] .md-hero {
-    background-color: #00325c
+    background-color: #00325c;
 }
 
 [data-md-color-primary=nagroms] .md-nav__link--active,
 [data-md-color-primary=nagroms] .md-nav__link:active {
-    color: #00325c
+    color: #00325c;
 }
 
 [data-md-color-primary=nagroms] .md-nav__item--nested>.md-nav__link {
-    color: inherit
+    color: inherit;
 }
 
 button[data-md-color-accent=nagroms] {
-    background-color: #861F41
+    background-color: #861F41;
 }
 
 [data-md-color-accent=nagroms] .md-typeset a:active,
 [data-md-color-accent=nagroms] .md-typeset a:hover {
-    color: #861F41
+    color: #861F41;
 }
 
 [data-md-color-accent=nagroms] .md-typeset .codehilite pre::-webkit-scrollbar-thumb:hover,
 [data-md-color-accent=nagroms] .md-typeset pre code::-webkit-scrollbar-thumb:hover {
-    background-color: #861F41
+    background-color: #861F41;
 }
 
 [data-md-color-accent=nagroms] .md-nav__link:focus,
@@ -44,41 +45,41 @@ button[data-md-color-accent=nagroms] {
 [data-md-color-accent=nagroms] .md-typeset [id] .headerlink:focus,
 [data-md-color-accent=nagroms] .md-typeset [id]:hover .headerlink:hover,
 [data-md-color-accent=nagroms] .md-typeset [id]:target .headerlink {
-    color: #861F41
+    color: #861F41;
 }
 
 [data-md-color-accent=nagroms] .md-search__scrollwrap::-webkit-scrollbar-thumb:hover {
-    background-color: #861F41
+    background-color: #861F41;
 }
 
 [data-md-color-accent=nagroms] .md-search-result__link:hover,
 [data-md-color-accent=nagroms] .md-search-result__link[data-md-state=active] {
-    background-color: #9E4C67
+    background-color: #9E4C67;
 }
 
 [data-md-color-accent=nagroms] .md-sidebar__scrollwrap::-webkit-scrollbar-thumb:hover {
-    background-color: #861F41
+    background-color: #861F41;
 }
 
 [data-md-color-accent=nagroms] .md-source-file:hover:before {
-    background-color: #861F41
+    background-color: #861F41;
 }
 
 @media only screen and (max-width:59.9375em) {
     [data-md-color-primary=nagroms] .md-nav__source {
-        background-color: #861F41
+        background-color: #861F41;
     }
 }
 
 @media only screen and (max-width:76.1875em) {
     html [data-md-color-primary=nagroms] .md-nav--primary .md-nav__title--site {
-        background-color: #00325c
+        background-color: #00325c;
     }
 }
 
 @media only screen and (min-width:76.25em) {
     [data-md-color-primary=nagroms] .md-tabs {
-        background-color: #00325c
+        background-color: #00325c;
     }
 }
 
@@ -188,10 +189,12 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
 
 [data-md-color-primary=nagroms] .sd-card-header a {
     color: white;
+    text-decoration: none !important;
 }
 
 [data-md-color-primary=nagroms] .sd-card:hover > .sd-card-header a {
     color: white;
+    text-decoration: none !important;
 }
 
 .sd-card-footer {
