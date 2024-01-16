@@ -16,7 +16,7 @@ Seminar by Stefan Volkwein
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Adaptive Reduced-Order Schemes in Optimal Design and Control
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,14 @@ Seminar by Stefan Volkwein
 
     .. container:: sd-badge-next-text
 
-        TBA
+        In the talk problems in optimal design and control are considered.
+        Reduced-order modeling is applied to speed-up the numerical solution.
+        A-posteriori error estimation is utilized to ensure a sufficient
+        accuracy of the reduced-order (suboptimal) solution. Here, adaptive
+        strategies are essential to choose a proper reduced-order approximation,
+        where the dimension of the reduced-order spaces is kept as small as
+        necessary. New strategies in constructing the reduced-order spaces are
+        proposed which does not require any computationally expensive offline
+        phase.
 
     

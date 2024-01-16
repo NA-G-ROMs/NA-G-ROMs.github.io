@@ -40,7 +40,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Stefan Volkwein, "`TBA <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
+        * Stefan Volkwein, "`Adaptive Reduced-Order Schemes in Optimal Design and Control <seminars/Stefan_Volkwein_2024.html>`__", 2024-01-23.
         * Silke Glas, "`TBA <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
         * Youngsoo Choi, "`TBA <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
         +++
