@@ -73,7 +73,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * `Francesco Ballarin <https://www.francescoballarin.it/>`_ (`Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_)
         * `Maria Strazzullo <https://mstrazzu.github.io/>`_ (`Politecnico di Torino <https://www.polito.it/>`_)
-        * `Birgul Koc <https://sites.google.com/view/koc-birgul/home>`_ (`IFP Energies Nouvelles <https://www.ifpenergiesnouvelles.fr/>`_ and `Inria Memphis <https://www.inria.fr/en/memphis>`_)
+        * `Birgul Koc <https://sites.google.com/view/koc-birgul/home>`_ (`Universidad de Sevilla <https://www.us.es/>`_)
         * `Traian Iliescu <https://sites.google.com/view/iliescu/home>`_ (`Virginia Tech <https://www.vt.edu/>`_)
 
 
@@ -86,7 +86,8 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         The seminar series is organized within:
 
-        * the `ARIA project <https://project.inria.fr/aria/>`_, a H2020-MSCA-RISE-2019 financed by the European Commission under the Grant Agreement No 872442.
+        * the `ARIA project <https://project.inria.fr/aria/>`_, a H2020-MSCA-RISE-2019 financed by the European Commission under the Grant Agreement No 872442,
+        * the ROMEU project, a PRIN 2022 PNRR project financed by the European Union under Next Generation EU.
 
         |
 
@@ -94,5 +95,5 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         * `MATHEX <https://centridiricerca.unicatt.it/mathex>`_ and `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
         * `Department of Mathematical Sciences <https://www.disma.polito.it/>`_, `Politecnico di Torino <https://www.polito.it/>`_
-        * `IFP Energies Nouvelles <https://www.ifpenergiesnouvelles.fr/>`_ and `Inria Memphis <https://www.inria.fr/en/memphis>`_
+        * `Departamento de Ecuaciones Diferenciales y Análisis Numérico <https://departamento.us.es/edan/>`_, `Universidad de Sevilla <https://www.us.es/>`_
         * Interdisciplinary Center for Applied Mathematics and `Department of Mathematics <https://math.vt.edu/>`_, `Virginia Tech <https://www.vt.edu/>`_
