@@ -41,4 +41,9 @@ Seminar by Stefan Volkwein
         proposed which does not require any computationally expensive offline
         phase.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=vzBx9zm07oc>`_.
     
