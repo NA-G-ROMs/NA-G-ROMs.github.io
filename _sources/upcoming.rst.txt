@@ -2,7 +2,7 @@
 
 Upcoming seminars
 =================
-* Silke Glas, "`TBA <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
+* Silke Glas, "`Model reduction on manifolds: A differential geometric framework <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
 * Youngsoo Choi, "`TBA <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
 * Virginie Ehrlacher, "`TBA <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
 * Ping-Hsuan Tsai, "`TBA <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
