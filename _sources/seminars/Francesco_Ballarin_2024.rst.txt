@@ -1,0 +1,71 @@
+.. DO NOT MODIFY: this file was automatically generated!
+
+:orphan:
+
+Seminar by Francesco Ballarin
+=================================
+.. container:: sd-badge-seminar-container
+
+    :bdg-primary-line:`Speaker`
+
+    .. container:: sd-badge-next-text
+
+        Francesco Ballarin (Università Cattolica del Sacro Cuore)
+
+    :bdg-primary-line:`Title`
+
+    .. container:: sd-badge-next-text
+
+        Regularized reduced order models for control of Navier-Stokes equations
+
+    :bdg-primary-line:`Date`
+
+    .. container:: sd-badge-next-text
+
+        * January 30, 2024 16:00 CET+0100 (Europe/Rome)
+        * January 30, 2024 10:00 EST-0500 (US/Eastern)
+        * January 30, 2024 09:00 CST-0600 (US/Central)
+        * January 30, 2024 07:00 PST-0800 (US/Pacific)
+
+    :bdg-primary-line:`Abstract`
+
+    .. container:: sd-badge-next-text
+
+        Numerical stabilization is often used to alleviate the spurious
+        oscillations generally produced by full order models (FOMs) in
+        under-resolved or marginally-resolved simulations of
+        convection-dominated flows modelled by the incompressible Navier-Stokes
+        equations. However, when dealing with reduced order models (ROMs) of
+        convection-dominated, marginally-resolved flows, the role of numerical
+        stabilization is still not well understood. Further challanges arise
+        when interested not only in the simulation of the flow itself, but also
+        on its control, for instance to achieve a desired target configuration.
+        
+        The presentation will be divided in two parts, which discuss two
+        different regularization techniques. In the first part of the talk,
+        based on (Strazzullo et al. 2023), we present an evolve-filter-relax
+        regularized ROM and apply it to a feedback control problem. In the
+        second part of the presentation we establish a novel regularized ROM,
+        based on approximate deconvolution and introduced in (Sanfilippo et al.
+        2023).
+        
+        .. container:: references csl-bib-body hanging-indent
+           :name: refs
+        
+           .. container:: csl-entry
+              :name: ref-SanfilippoMooreBallarinIliescu2023
+        
+              Sanfilippo, Anna, Ian Moore, Francesco Ballarin, and Traian
+              Iliescu. 2023. “Approximate Deconvolution Leray Reduced Order
+              Model for Convection-Dominated Flows.” *Finite Elements in
+              Analysis and Design* 226: 104021.
+        
+           .. container:: csl-entry
+              :name: ref-StrazzulloBallarinIliescuCanuto2023
+        
+              Strazzullo, Maria, Francesco Ballarin, Traian Iliescu, and Claudio
+              Canuto. 2023. “New Feedback Control and Adaptive
+              Evolve-Filter-Relax Regularization for the Navier-Stokes Equations
+              in the Convection-Dominated Regime.”
+
+    

@@ -59,7 +59,7 @@
 </script>
   
   
-    <title>Seminar by Silke Glas &#8212; NA G-ROMs seminar series</title>
+    <title>Seminar by Francesco Ballarin &#8212; NA G-ROMs seminar series</title>
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css" />
     <link rel="stylesheet" type="text/css" href="../_static/material.css" />
     <link rel="stylesheet" type="text/css" href="../_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
@@ -92,7 +92,7 @@
   <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer">
   <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search">
   <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
-  <a href="#seminars/Silke_Glas_2024" tabindex="1" class="md-skip"> Skip to content </a>
+  <a href="#seminars/Francesco_Ballarin_2024" tabindex="1" class="md-skip"> Skip to content </a>
   <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
     <div class="md-flex navheader">
@@ -110,7 +110,7 @@
       <div class="md-flex__cell md-flex__cell--stretch">
         <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
           <span class="md-header-nav__topic">Numerical Analysis of Galerkin ROMs seminar series</span>
-          <span class="md-header-nav__topic"> Seminar by Silke Glas </span>
+          <span class="md-header-nav__topic"> Seminar by Francesco Ballarin </span>
         </div>
       </div>
       <div class="md-flex__cell md-flex__cell--shrink">
@@ -215,7 +215,7 @@
 <nav class="md-nav md-nav--secondary">
   <ul class="md-nav__list" data-md-scrollfix="">
     
-<li class="md-nav__item"><a class="md-nav__extra_link" href="../_sources/seminars/Silke_Glas_2024.rst.txt">Show Source</a> </li>
+<li class="md-nav__item"><a class="md-nav__extra_link" href="../_sources/seminars/Francesco_Ballarin_2024.rst.txt">Show Source</a> </li>
 
 <li id="searchbox" class="md-nav__item"></li>
 
@@ -228,16 +228,16 @@
         <div class="md-content">
           <article class="md-content__inner md-typeset" role="main">
             
-  <section id="seminar-by-silke-glas">
-<h1 id="seminars-silke-glas-2024--page-root">Seminar by Silke Glas</h1>
+  <section id="seminar-by-francesco-ballarin">
+<h1 id="seminars-francesco-ballarin-2024--page-root">Seminar by Francesco Ballarin</h1>
 <div class="sd-badge-seminar-container docutils container">
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Speaker</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>Silke Glas (University of Twente)</p>
+<p>Francesco Ballarin (Università Cattolica del Sacro Cuore)</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>Model reduction on manifolds: A differential geometric framework</p>
+<p>Regularized reduced order models for control of Navier-Stokes equations</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,21 +250,36 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>Using nonlinear projections and preserving structure in model order
-reduction (MOR) are currently active research fields. In this paper, we
-provide a novel differential geometric framework for model reduction on
-smooth manifolds, which emphasizes the geometric nature of the objects
-involved. The crucial ingredient is the construction of an embedding for
-the low-dimensional submanifold and a compatible reduction map, for
-which we discuss several options. Our general framework allows capturing
-and generalizing several existing MOR techniques, such as structure
-preservation for Lagrangian- or Hamiltonian dynamics, and using
-nonlinear projections that are, for instance, relevant in
-transport-dominated problems. The joint abstraction can be used to
-derive shared theoretical properties for different methods, such as an
-exact reproduction result. To connect our framework to existing work in
-the field, we demonstrate that various techniques for data-driven
-construction of nonlinear projections can be included in our framework.</p>
+<p>Numerical stabilization is often used to alleviate the spurious
+oscillations generally produced by full order models (FOMs) in
+under-resolved or marginally-resolved simulations of
+convection-dominated flows modelled by the incompressible Navier-Stokes
+equations. However, when dealing with reduced order models (ROMs) of
+convection-dominated, marginally-resolved flows, the role of numerical
+stabilization is still not well understood. Further challanges arise
+when interested not only in the simulation of the flow itself, but also
+on its control, for instance to achieve a desired target configuration.</p>
+<p>The presentation will be divided in two parts, which discuss two
+different regularization techniques. In the first part of the talk,
+based on (Strazzullo et al. 2023), we present an evolve-filter-relax
+regularized ROM and apply it to a feedback control problem. In the
+second part of the presentation we establish a novel regularized ROM,
+based on approximate deconvolution and introduced in (Sanfilippo et al.
+2023).</p>
+<div class="references csl-bib-body hanging-indent docutils container" id="refs">
+<div class="csl-entry docutils container" id="ref-sanfilippomooreballariniliescu2023">
+<p>Sanfilippo, Anna, Ian Moore, Francesco Ballarin, and Traian
+Iliescu. 2023. “Approximate Deconvolution Leray Reduced Order
+Model for Convection-Dominated Flows.” <em>Finite Elements in
+Analysis and Design</em> 226: 104021.</p>
+</div>
+<div class="csl-entry docutils container" id="ref-strazzulloballariniliescucanuto2023">
+<p>Strazzullo, Maria, Francesco Ballarin, Traian Iliescu, and Claudio
+Canuto. 2023. “New Feedback Control and Adaptive
+Evolve-Filter-Relax Regularization for the Navier-Stokes Equations
+in the Convection-Dominated Regime.”</p>
+</div>
+</div>
 </div>
 </div>
 </section>

@@ -40,7 +40,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Silke Glas, "`Model reduction on manifolds: A differential geometric framework <seminars/Silke_Glas_2024.html>`__", 2024-01-30.
+        * Francesco Ballarin, "`Regularized reduced order models for control of Navier-Stokes equations <seminars/Francesco_Ballarin_2024.html>`__", 2024-01-30.
         * Youngsoo Choi, "`Physics-guided & interpretable data-driven simulations <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
         * Virginie Ehrlacher, "`TBA <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
         +++
