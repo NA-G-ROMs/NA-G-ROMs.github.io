@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Francesco Ballarin, "`Regularized reduced order models for control of Navier-Stokes equations <seminars/Francesco_Ballarin_2024.html>`__", 2024-01-30.
 * Youngsoo Choi, "`Physics-guided & interpretable data-driven simulations <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
 * Virginie Ehrlacher, "`TBA <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
 * Ping-Hsuan Tsai, "`TBA <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.

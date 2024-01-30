@@ -68,4 +68,9 @@ Seminar by Francesco Ballarin
               Evolve-Filter-Relax Regularization for the Navier-Stokes Equations
               in the Convection-Dominated Regime.”
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=jxUlF1Ezelo>`_.
     
