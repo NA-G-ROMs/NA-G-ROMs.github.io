@@ -42,27 +42,41 @@ Seminar by Ping-Hsuan Tsai
         the turbulent channel flow at :math:`Re_{\tau} = 180` and
         :math:`Re_{\tau} =
         395` in both the reproduction and the predictive regimes. For each
-        Reg-ROM, we investigate two different filters: (i) the differential
-        filter (DF), and (ii) a new higher-order algebraic filter (HOAF). In our
-        numerical investigation, we monitor the Reg-ROM performance with respect
-        to the ROM dimension, :math:`N`, and the filter order. We also perform
-        sensitivity studies of the three Reg-ROMs with respect to the time
-        interval, relaxation parameter, and filter radius. The numerical results
-        yield the following conclusions: (i) In terms of the Reynolds normal and
-        shear stresses, all three Reg-ROMs are significantly more accurate than
-        the G-ROM. (ii) In addition, all three Reg-ROMs are more accurate than
-        the ROM projection, which represents the best theoretical approximation
-        of the training data in the given ROM space. (iii) With the optimal
-        parameter values, the new TR-ROM yields more accurate results than the
-        L-ROM and the EFR-ROM in all tests. (iv) For most :math:`N` values, DF
-        yields the most accurate results for all three Reg-ROMs. (v) The optimal
-        parameters trained in the reproduction regime are also optimal for the
-        predictive regime for most :math:`N` values, demonstrating the Reg-ROM
-        predictive capabilities. (vi) All three Reg-ROMs are sensitive to the
-        filter radius and the filter order, and the EFR-ROM and the TR-ROM are
-        sensitive to the relaxation parameter. (vii) The optimal range for the
-        filter radius and the effect of relaxation parameter are similar for the
-        two :math:`Re_\tau` values.
+        Reg-ROM, we investigate two different filters:
+        
+        -  the differential filter (DF), and
+        
+        -  a new higher-order algebraic filter (HOAF).
+        
+        In our numerical investigation, we monitor the Reg-ROM performance with
+        respect to the ROM dimension, :math:`N`, and the filter order. We also
+        perform sensitivity studies of the three Reg-ROMs with respect to the
+        time interval, relaxation parameter, and filter radius. The numerical
+        results yield the following conclusions:
+        
+        -  In terms of the Reynolds normal and shear stresses, all three
+           Reg-ROMs are significantly more accurate than the G-ROM.
+        
+        -  In addition, all three Reg-ROMs are more accurate than the ROM
+           projection, which represents the best theoretical approximation of
+           the training data in the given ROM space.
+        
+        -  With the optimal parameter values, the new TR-ROM yields more
+           accurate results than the L-ROM and the EFR-ROM in all tests.
+        
+        -  For most :math:`N` values, DF yields the most accurate results for
+           all three Reg-ROMs.
+        
+        -  The optimal parameters trained in the reproduction regime are also
+           optimal for the predictive regime for most :math:`N` values,
+           demonstrating the Reg-ROM predictive capabilities.
+        
+        -  All three Reg-ROMs are sensitive to the filter radius and the filter
+           order, and the EFR-ROM and the TR-ROM are sensitive to the relaxation
+           parameter.
+        
+        -  The optimal range for the filter radius and the effect of relaxation
+           parameter are similar for the two :math:`Re_\tau` values.
         
         This is joint work with Paul Fischer and Traian Iliescu.
 
