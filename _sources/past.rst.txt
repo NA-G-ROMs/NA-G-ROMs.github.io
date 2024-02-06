@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Youngsoo Choi, "`Physics-guided & interpretable data-driven simulations <seminars/Youngsoo_Choi_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=ReE9obwBO9o`, 2024-02-06.
 * Francesco Ballarin, "`Regularized reduced order models for control of Navier-Stokes equations <seminars/Francesco_Ballarin_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=jxUlF1Ezelo`, 2024-01-30.
 * Stefan Volkwein, "`Adaptive Reduced-Order Schemes in Optimal Design and Control <seminars/Stefan_Volkwein_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=vzBx9zm07oc`, 2024-01-23.
 * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=H3FST30lbpQ`, 2023-12-12.

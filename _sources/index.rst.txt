@@ -40,9 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Youngsoo Choi, "`Physics-guided & interpretable data-driven simulations <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
         * Virginie Ehrlacher, "`Nonlinear reduced basis methods using optimal transport in electronic structure calculations <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
         * Ping-Hsuan Tsai, "`A Time-Relaxation Reduced Order Model for the Turbulent Channel Flow <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
+        * Fatma Güler Eroğlu, "`TBA <seminars/Fatma_Guler_Eroglu_2024.html>`__", 2024-02-27.
         +++
         :doc:`Read more <upcoming>`
 
@@ -50,9 +50,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Youngsoo Choi, "`Physics-guided & interpretable data-driven simulations <seminars/Youngsoo_Choi_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=ReE9obwBO9o`, 2024-02-06.
         * Francesco Ballarin, "`Regularized reduced order models for control of Navier-Stokes equations <seminars/Francesco_Ballarin_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=jxUlF1Ezelo`, 2024-01-30.
         * Stefan Volkwein, "`Adaptive Reduced-Order Schemes in Optimal Design and Control <seminars/Stefan_Volkwein_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=vzBx9zm07oc`, 2024-01-23.
-        * Jiahua Jiang, "`Hybrid Projection Methods for Solution Decomposition in Large-scale Bayesian Inverse Problems <seminars/Jiahua_Jiang_2023.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=H3FST30lbpQ`, 2023-12-12.
         +++
         :doc:`Read more <past>`
 

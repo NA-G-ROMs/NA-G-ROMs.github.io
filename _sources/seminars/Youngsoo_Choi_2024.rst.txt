@@ -60,4 +60,9 @@ Seminar by Youngsoo Choi
         of these methods will also become apparent in multi-query
         decision-making applications, such as design optimization.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=ReE9obwBO9o>`_.
     
