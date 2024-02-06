@@ -16,7 +16,7 @@ Seminar by Virginie Ehrlacher
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Nonlinear reduced basis methods using optimal transport in electronic structure calculations
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,29 @@ Seminar by Virginie Ehrlacher
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Electronic structure calculations involving a large number of electrons
+        are computationally very demanding. For example, in the design of
+        machine-learned interatomic potentials for materials or molecules,
+        generating ab initio data for a large number of atomic configurations is
+        often the most time-consuming part. Therefore, there is still a strong
+        need in reducing the computational cost of such methods.
+        
+        In this talk, I will present recent work which aims at efficiently
+        computing approximate solutions to electronic structire calculation
+        problems. The latter read as eigenvalue problems parametrized by the
+        nuclei positions within a molecule using a nonlinear reduced basis
+        method based on optimal transport. Indeed, standard linear reduced-order
+        modeling techniques do not work in the present context due to the
+        localisation of the electronic density around the nuclei. However, by
+        combining a sparse representation of the solution as a mixture of
+        well-chosen functions with optimal transport methods, we obtain accurate
+        nonlinear reduced-order models which enable to nicely approximate the
+        solution of the problem. I will present theoretical results on the
+        mathematical analysis of the approach on a 1D toy model, in particular
+        on the decay rate of linear and nonlinear Kolmogorov widths. I will
+        finally discuss possible extensions to larger systems.
+        
+        This is joint work with Maxime Daléry, Geneviève Dusson and Alexei
+        Lozinski.
 
     
