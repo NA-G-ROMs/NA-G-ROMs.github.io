@@ -42,7 +42,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * Youngsoo Choi, "`Physics-guided & interpretable data-driven simulations <seminars/Youngsoo_Choi_2024.html>`__", 2024-02-06.
         * Virginie Ehrlacher, "`Nonlinear reduced basis methods using optimal transport in electronic structure calculations <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
-        * Ping-Hsuan Tsai, "`TBA <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
+        * Ping-Hsuan Tsai, "`A Time-Relaxation Reduced Order Model for the Turbulent Channel Flow <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
         +++
         :doc:`Read more <upcoming>`
 

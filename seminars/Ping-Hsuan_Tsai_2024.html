@@ -71,6 +71,7 @@
     <script src="../_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="../_static/doctools.js"></script>
     <script src="../_static/design-tabs.js"></script>
+    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <script src="../_static/js/external_links.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
@@ -237,7 +238,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>A Time-Relaxation Reduced Order Model for the Turbulent Channel Flow</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +251,39 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Regularized reduced order models (Reg-ROMs) are stabilization strategies
+that leverage spatial filtering to alleviate the spurious numerical
+oscillations generally displayed by the classical Galerkin ROM (G-ROM)
+in under-resolved numerical simulations of turbulent flows. In this
+paper, we propose a new Reg-ROM, the time-relaxation ROM (TR-ROM), which
+filters the marginally resolved scales. We compare the new TR-ROM with
+the two other Reg-ROMs in current use, i.e., the Leray ROM (L-ROM) and
+the evolve-filter-relax ROM (EFR-ROM), in the numerical simulation of
+the turbulent channel flow at <span class="math notranslate nohighlight">\(Re_{\tau} = 180\)</span> and
+<span class="math notranslate nohighlight">\(Re_{\tau} =
+395\)</span> in both the reproduction and the predictive regimes. For each
+Reg-ROM, we investigate two different filters: (i) the differential
+filter (DF), and (ii) a new higher-order algebraic filter (HOAF). In our
+numerical investigation, we monitor the Reg-ROM performance with respect
+to the ROM dimension, <span class="math notranslate nohighlight">\(N\)</span>, and the filter order. We also perform
+sensitivity studies of the three Reg-ROMs with respect to the time
+interval, relaxation parameter, and filter radius. The numerical results
+yield the following conclusions: (i) In terms of the Reynolds normal and
+shear stresses, all three Reg-ROMs are significantly more accurate than
+the G-ROM. (ii) In addition, all three Reg-ROMs are more accurate than
+the ROM projection, which represents the best theoretical approximation
+of the training data in the given ROM space. (iii) With the optimal
+parameter values, the new TR-ROM yields more accurate results than the
+L-ROM and the EFR-ROM in all tests. (iv) For most <span class="math notranslate nohighlight">\(N\)</span> values, DF
+yields the most accurate results for all three Reg-ROMs. (v) The optimal
+parameters trained in the reproduction regime are also optimal for the
+predictive regime for most <span class="math notranslate nohighlight">\(N\)</span> values, demonstrating the Reg-ROM
+predictive capabilities. (vi) All three Reg-ROMs are sensitive to the
+filter radius and the filter order, and the EFR-ROM and the TR-ROM are
+sensitive to the relaxation parameter. (vii) The optimal range for the
+filter radius and the effect of relaxation parameter are similar for the
+two <span class="math notranslate nohighlight">\(Re_\tau\)</span> values.</p>
+<p>This is joint work with Paul Fischer and Traian Iliescu.</p>
 </div>
 </div>
 </section>
