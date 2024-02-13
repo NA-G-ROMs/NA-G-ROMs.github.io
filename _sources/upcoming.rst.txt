@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Virginie Ehrlacher, "`Nonlinear reduced basis methods using optimal transport in electronic structure calculations <seminars/Virginie_Ehrlacher_2024.html>`__", 2024-02-13.
 * Ping-Hsuan Tsai, "`A Time-Relaxation Reduced Order Model for the Turbulent Channel Flow <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
 * Fatma Güler Eroğlu, "`TBA <seminars/Fatma_Guler_Eroglu_2024.html>`__", 2024-02-27.
 * Benjamin Peherstorfer, "`TBA <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
