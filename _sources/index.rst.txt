@@ -41,7 +41,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         :doc:`Upcoming seminars <upcoming>`
         ^^^
         * Ping-Hsuan Tsai, "`A Time-Relaxation Reduced Order Model for the Turbulent Channel Flow <seminars/Ping-Hsuan_Tsai_2024.html>`__", 2024-02-20.
-        * Fatma Güler Eroğlu, "`TBA <seminars/Fatma_Guler_Eroglu_2024.html>`__", 2024-02-27.
+        * Fatma Güler Eroğlu, "`Reduced order modelling for multiphysics problems <seminars/Fatma_Guler_Eroglu_2024.html>`__", 2024-02-27.
         * Benjamin Peherstorfer, "`TBA <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
         +++
         :doc:`Read more <upcoming>`

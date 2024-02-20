@@ -16,7 +16,7 @@ Seminar by Fatma Güler Eroğlu
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Reduced order modelling for multiphysics problems
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,21 @@ Seminar by Fatma Güler Eroğlu
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We propose, analyze and test a post-processing implementation of a
+        projection-based variational multiscale (VMS) method with proper
+        orthogonal decomposition (POD) for the incompressible Navier-Stokes
+        equations. The projection-based VMS stabilization is added as a separate
+        post-processing step to the standard POD approximation, and since the
+        stabilization step is completely decoupled, the method can easily be
+        incorporated into existing codes, and stabilization parameters can be
+        tuned independent from the time evolution step. Then, we extend the
+        VMS-POD methodology for Darcy-Brinkman equations with double-diffusive
+        convection.
+        
+        In the second part of the presentation, we investigate POD-G modelling
+        to solve fully nonlinear potential flow equations (FNPF) to achieve
+        faster turn-around time than spectral element method (SEM). We present
+        results for several numerical tests on benchmark problems which show the
+        proposed method’s effectiveness.
 
     
