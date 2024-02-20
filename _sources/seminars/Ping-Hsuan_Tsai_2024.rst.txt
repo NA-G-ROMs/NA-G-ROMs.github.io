@@ -80,4 +80,9 @@ Seminar by Ping-Hsuan Tsai
         
         This is joint work with Paul Fischer and Traian Iliescu.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=87_ADthgiO0>`_.
     
