@@ -16,7 +16,7 @@ Seminar by Angelo Iollo
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Convex Displacement Interpolation for Parametric Fields
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,48 @@ Seminar by Angelo Iollo
 
     .. container:: sd-badge-next-text
 
-        TBA
+        We will present a nonlinear interpolation technique for parametric
+        fields that exploits optimal transportation of coherent structures of
+        the solution to improve interpolation accuracy and contour the so-called
+        Kolmogorov barrier problem. The approach generalizes the nonlinear
+        interpolation procedure introduced in (Iollo and Taddei 2022) to
+        multi-dimensional parameter domains and to datasets of several
+        snapshots. Given a library of high-fidelity simulations, we rely on a
+        scalar testing function and on a point set registration method to
+        identify coherent structures of the solution field in the form of sorted
+        point clouds. Given a new parameter value, we exploit a regression
+        method to predict the new point cloud; then, we resort to a
+        boundary-aware registration technique to define bijective mappings that
+        deform the new point cloud into the point clouds of the neighboring
+        elements of the dataset, while preserving the boundary of the domain;
+        finally, we define the estimate as a weighted combination of modes
+        obtained by composing the neighboring snapshots with the
+        previously-built mappings. In our presentation, we will explain in some
+        details this approach named Convex Displacement Interpolation and delve
+        into its recent expansion into multi-dimensional parameter domains and
+        datasets with multiple snapshots, as discussed in (Cucchiara et al.
+        2023). Exemples pertaining to compressible flows in high speed regimes
+        or viscous incompressible flows with recirculations will be presented.
+        
+        This work is done in collaboration with Simona Cucchiara, Tommaso
+        Taddei, and Haysam Telib.
+        
+        .. container:: references csl-bib-body hanging-indent
+           :name: refs
+        
+           .. container:: csl-entry
+              :name: ref-Iollo2023
+        
+              Cucchiara, Simona, Angelo Iollo, Tommaso Taddei, and Haysam Telib.
+              2023. “Model Order Reduction by Convex Displacement
+              Interpolation.”
+        
+           .. container:: csl-entry
+              :name: ref-Iollo2022
+        
+              Iollo, Angelo, and Tommaso Taddei. 2022. “Mapping of Coherent
+              Structures in Parameterized Flows by Learning Optimal
+              Transportation with Gaussian Models.” *Journal of Computational
+              Physics* 471: 111671.
 
     
