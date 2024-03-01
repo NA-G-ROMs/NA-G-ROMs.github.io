@@ -48,4 +48,9 @@ Seminar by Fatma Güler Eroğlu
         results for several numerical tests on benchmark problems which show the
         proposed method’s effectiveness.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=xrYRekGXu7s>`_.
     
