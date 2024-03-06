@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Benjamin Peherstorfer, "`Neural Galerkin schemes for model reduction of transport-dominated problems <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
 * Angelo Iollo, "`Convex Displacement Interpolation for Parametric Fields <seminars/Angelo_Iollo_2024.html>`__", 2024-03-12.
 * Fei Lu, "`Adaptive RKHS regularization for ill-posed linear inverse problems <seminars/Fei_Lu_2024.html>`__", 2024-03-19.
 * Kathrin Smetana, "`TBA <seminars/Kathrin_Smetana_2024.html>`__", 2024-03-26.

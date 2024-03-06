@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Benjamin Peherstorfer, "`Neural Galerkin schemes for model reduction of transport-dominated problems <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
 * Fatma Güler Eroğlu, "`Reduced order modelling for multiphysics problems <seminars/Fatma_Guler_Eroglu_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=xrYRekGXu7s`, 2024-02-27.
 * Ping-Hsuan Tsai, "`A Time-Relaxation Reduced Order Model for the Turbulent Channel Flow <seminars/Ping-Hsuan_Tsai_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=87_ADthgiO0`, 2024-02-20.
 * Virginie Ehrlacher, "`Nonlinear reduced basis methods using optimal transport in electronic structure calculations <seminars/Virginie_Ehrlacher_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=gYGw8ggIIMw`, 2024-02-13.
