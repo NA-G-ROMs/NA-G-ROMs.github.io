@@ -16,7 +16,7 @@ Seminar by Kathrin Smetana
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Model order reduction for seismic applications
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,24 @@ Seminar by Kathrin Smetana
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Full waveform inversion to monitor changes in seismicity is a
+        computationally expensive and challenging task. The latter is due to the
+        fact that the discretization of the seismic wave equation can have
+        millions of degrees of freedom. Moreover, aiming at estimating, for
+        instance, the elastic structure at every grid point results in a large
+        parameter space within the inverse problem. Model order reduction (MOR)
+        techniques can help to speed up the computations, using low-dimensional
+        models that capture the original system’s important features. However,
+        for large-scale wave propagation problems, constructing efficient
+        reduced models is challenging as MOR methods can suffer from a slow
+        decay of the Kolmogorov n-width for such problems, thus, requiring a
+        large number of basis functions to reach the desired accuracy. In our
+        work, we address the mentioned challenge as follows: We transform the
+        problem to the Laplace domain, where we can exploit that the output of
+        interest – the seismogram – is band-limited or low-pass filtered, such
+        that we can avoid high frequencies; the latter would require many
+        reduced basis functions for an accurate approximation. By targeting the
+        construction of the reduced model to the seismogram, we obtain a rapidly
+        converging reduced order approximation.
 
     

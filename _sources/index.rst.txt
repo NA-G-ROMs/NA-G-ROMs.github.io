@@ -42,7 +42,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         ^^^
         * Angelo Iollo, "`Convex Displacement Interpolation for Parametric Fields <seminars/Angelo_Iollo_2024.html>`__", 2024-03-12.
         * Fei Lu, "`Adaptive RKHS regularization for ill-posed linear inverse problems <seminars/Fei_Lu_2024.html>`__", 2024-03-19.
-        * Kathrin Smetana, "`TBA <seminars/Kathrin_Smetana_2024.html>`__", 2024-03-26.
+        * Kathrin Smetana, "`Model order reduction for seismic applications <seminars/Kathrin_Smetana_2024.html>`__", 2024-03-26.
         +++
         :doc:`Read more <upcoming>`
 
