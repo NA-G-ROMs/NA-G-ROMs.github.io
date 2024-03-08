@@ -16,21 +16,29 @@ Seminar by Enrique Delgado Ávila
 
     .. container:: sd-badge-next-text
 
-        TBA
+        A posteriori error estimators for the Greedy algorithm in Reduced Basis Method
 
     :bdg-primary-line:`Date`
 
     .. container:: sd-badge-next-text
 
-        * April 09, 2024 16:00 CEST+0200 (Europe/Rome)
-        * April 09, 2024 10:00 EDT-0400 (US/Eastern)
-        * April 09, 2024 09:00 CDT-0500 (US/Central)
-        * April 09, 2024 07:00 PDT-0700 (US/Pacific)
+        * April 02, 2024 16:00 CEST+0200 (Europe/Rome)
+        * April 02, 2024 10:00 EDT-0400 (US/Eastern)
+        * April 02, 2024 09:00 CDT-0500 (US/Central)
+        * April 02, 2024 07:00 PDT-0700 (US/Pacific)
 
     :bdg-primary-line:`Abstract`
 
     .. container:: sd-badge-next-text
 
-        TBA
+        In this talk we adress different approaches for "a posteriori" error
+        estimators for the Greedy algorithm. We deal with LES models for which
+        we construct a posteriori error estimators by two different approaches.
+        On one hand, we consider the classical Brezzi-Rappaz-Raviart theory for
+        non-linear operators in order to construct the a posteriori error
+        estimator. On the other hand, we consider a novel approach, in which the
+        a posteriori error estimator is based on the Kolmogorov energy cascade
+        theory. We present numerical results for different test cases where we
+        show the reliability of both kind of estimators.
 
     
