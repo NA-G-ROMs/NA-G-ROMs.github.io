@@ -6,7 +6,7 @@ Upcoming seminars
 * Fei Lu, "`Adaptive RKHS regularization for ill-posed linear inverse problems <seminars/Fei_Lu_2024.html>`__", 2024-03-19.
 * Kathrin Smetana, "`Model order reduction for seismic applications <seminars/Kathrin_Smetana_2024.html>`__", 2024-03-26.
 * Enrique Delgado Ávila, "`A posteriori error estimators for the Greedy algorithm in Reduced Basis Method <seminars/Enrique_Delgado_Avila_2024.html>`__", 2024-04-02.
-* Samuele Rubino, "`TBA <seminars/Samuele_Rubino_2024.html>`__", 2024-04-09.
+* Samuele Rubino, "`Reduced order modeling for Navier-Stokes time-splitting methods with open boundary conditions <seminars/Samuele_Rubino_2024.html>`__", 2024-04-09.
 * Martin Grepl, "`TBA <seminars/Martin_Grepl_2024.html>`__", 2024-04-16.
 * Simona Perotto, "`TBA <seminars/Simona_Perotto_2024.html>`__", 2024-04-23.
 * Irina Tezaur, "`TBA <seminars/Irina_Tezaur_2024.html>`__", 2024-04-30.
