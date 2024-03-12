@@ -75,4 +75,9 @@ Seminar by Angelo Iollo
               Transportation with Gaussian Models.” *Journal of Computational
               Physics* 471: 111671.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=2gtws5cx4dg>`_.
     

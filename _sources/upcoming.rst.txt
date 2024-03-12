@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Angelo Iollo, "`Convex Displacement Interpolation for Parametric Fields <seminars/Angelo_Iollo_2024.html>`__", 2024-03-12.
 * Fei Lu, "`Adaptive RKHS regularization for ill-posed linear inverse problems <seminars/Fei_Lu_2024.html>`__", 2024-03-19.
 * Kathrin Smetana, "`Model order reduction for seismic applications <seminars/Kathrin_Smetana_2024.html>`__", 2024-03-26.
 * Enrique Delgado Ávila, "`A posteriori error estimators for the Greedy algorithm in Reduced Basis Method <seminars/Enrique_Delgado_Avila_2024.html>`__", 2024-04-02.
