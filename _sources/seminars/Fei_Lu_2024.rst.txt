@@ -48,4 +48,9 @@ Seminar by Fei Lu
         operators, solving Fredholm equations of the first kind, and image
         deblurring.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=r6DJ_gb8Aak>`_.
     

@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Fei Lu, "`Adaptive RKHS regularization for ill-posed linear inverse problems <seminars/Fei_Lu_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=r6DJ_gb8Aak`, 2024-03-19.
 * Angelo Iollo, "`Convex Displacement Interpolation for Parametric Fields <seminars/Angelo_Iollo_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=2gtws5cx4dg`, 2024-03-12.
 * Benjamin Peherstorfer, "`Neural Galerkin schemes for model reduction of transport-dominated problems <seminars/Benjamin_Peherstorfer_2024.html>`__", 2024-03-05.
 * Fatma Güler Eroğlu, "`Reduced order modelling for multiphysics problems <seminars/Fatma_Guler_Eroglu_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=xrYRekGXu7s`, 2024-02-27.
