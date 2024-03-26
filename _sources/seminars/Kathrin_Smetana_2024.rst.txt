@@ -51,4 +51,9 @@ Seminar by Kathrin Smetana
         construction of the reduced model to the seismogram, we obtain a rapidly
         converging reduced order approximation.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=C3nrLnHlFug>`_.
     
