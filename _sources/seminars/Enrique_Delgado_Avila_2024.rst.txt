@@ -41,4 +41,9 @@ Seminar by Enrique Delgado Ávila
         theory. We present numerical results for different test cases where we
         show the reliability of both kind of estimators.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=kHAMXSkMc6c>`_.
     

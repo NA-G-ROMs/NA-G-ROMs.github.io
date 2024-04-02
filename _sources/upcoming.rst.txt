@@ -2,7 +2,6 @@
 
 Upcoming seminars
 =================
-* Enrique Delgado Ávila, "`A posteriori error estimators for the Greedy algorithm in Reduced Basis Method <seminars/Enrique_Delgado_Avila_2024.html>`__", 2024-04-02.
 * Samuele Rubino, "`Reduced order modeling for Navier-Stokes time-splitting methods with open boundary conditions <seminars/Samuele_Rubino_2024.html>`__", 2024-04-09.
 * Martin Grepl, "`Reduced Order Model Predictive Control for Parametrized Partial Differential Equations <seminars/Martin_Grepl_2024.html>`__", 2024-04-16.
 * Simona Perotto, "`TBA <seminars/Simona_Perotto_2024.html>`__", 2024-04-23.
