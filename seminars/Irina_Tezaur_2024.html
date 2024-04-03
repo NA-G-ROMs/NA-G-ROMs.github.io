@@ -237,7 +237,7 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Title</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>Rigorous component-based coupling of first-principles and data-driven models</p>
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Date</span></p>
 <div class="sd-badge-next-text docutils container">
@@ -250,7 +250,92 @@
 </div>
 <p><span class="sd-sphinx-override sd-badge sd-outline-primary sd-text-primary">Abstract</span></p>
 <div class="sd-badge-next-text docutils container">
-<p>TBA</p>
+<p>This talk will describe several recent advancements in developing a
+rigorous mathematical framework for the domain decomposition-based
+coupling of arbitrary combinations of first-principles numerical methods
+with data-driven models under the flexible Heterogeneous Numerical
+Methods (fHNM) project at Sandia National Laboratories. After giving a
+high-level overview of this project and its research vision, we will
+take you on a deep dive into two of the coupling methods pursued under
+fHNM as they relate to the coupling of projection-based reduced order
+models (ROMs) with each other and with conventional full order models
+(FOMs): (1) alternating Schwarz-based coupling, and (2) coupling via
+generalized mortar methods (GMMs).</p>
+<p>In the first part of the talk, we will discuss a recent extension of the
+Schwarz alternating method (Mota, Tezaur, and Alleman 2017; Mota,
+Tezaur, and Phlipot 2022) that enables the creation of FOM-ROM and
+ROM-ROM couplings from nonlinear monolithic problems. This method works
+by performing an overlapping or non-overlapping domain decomposition
+(DD) of the physical domain, and solving a sequence of problems on these
+subdomains, with information propagating through carefully-constructed
+transmission conditions on the subdomain boundaries (Barnett, Tezaur,
+and Mota 2022). We will showcase recent results obtained by implementing
+this method in the open-source Pressio demo-apps library.
+Time-permitting, we will summarize our experience in applying the method
+to couple subdomain-local Physics-Informed Neural Networks (PINNs) with
+each other and with FOMs (Snyder, Tezaur, and Wentland 2023).</p>
+<p>In the second part of the talk, we will present a new partitioned method
+that enables FOM-ROM and ROM-ROM coupling following a non-overlapping DD
+of the physical domain. At the crux of this method is a dual Schur
+complement system, which implicitly expresses a Lagrange multiplier,
+representing the interfacial flux, in terms of the state variables (de
+Castro et al. 2023). The solution of the Schur complement system and the
+application of an explicit time-stepping scheme allow for the subdomain
+equations to be decoupled and independently solved at each time step.
+Time-permitting, we will briefly mention some recent work that mitigates
+the cost of solving the required Schur complement problem by replacing
+it with a pre-trained Dynamic Mode Decomposition (DMD) or neural ODE
+(nODE) model.</p>
+<p>We evaluate the new coupling methods on canonical test cases from
+several applications. Our results demonstrate that the proposed coupling
+methodologies are computationally efficient and capable of coupling
+disparate models without introducing numerical artifacts into the
+solution. Importantly, our results suggest that FOM-ROM and ROM-ROM
+couplings of the sort considered have the potential of improving the
+predictive viability of projection-based ROMs, by enabling the spatial
+localization of ROMs (via domain decomposition) and the online
+integration of high-fidelity information into these models (via FOM
+coupling). Sandia National Laboratories is managed and operated by NTESS
+under DOE NNSA contract DE-NA0003525. This work is in collaboration with
+Chris Wentland (Sandia National Laboratories), Francesco Rizzi (NexGen
+Analytics), Joshua Barnett (Cadence Design Systems), Alejandro Mota
+(Sandia National Laboratories), Amy de Castro (Clemson University),
+Pavel Bochev (Sandia National Laboratories).</p>
+<div class="references csl-bib-body hanging-indent docutils container" id="refs">
+<div class="csl-entry docutils container" id="ref-barnett2022">
+<p>Barnett, Joshua, Irina Tezaur, and Alejandro Mota. 2022. “The
+Schwarz Alternating Method for the Seamless Coupling of Nonlinear
+Reduced Order Models and Full Order Models.” In <em>Computer Science
+Research Institute Summer Proceedings 2022, s. Seritan and j.
+Smith, Eds.</em></p>
+</div>
+<div class="csl-entry docutils container" id="ref-decastro2023">
+<p>de Castro, Amy, Pavel Bochev, Paul Kuberry, and Irina Tezaur.
+2023. “Explicit Synchronous Partitioned Scheme for Coupled Reduced
+Order Models Based on Composite Reduced Bases.” <em>Computer Methods
+in Applied Mechanics and Engineering</em> 417: 116398.
+<a class="reference external" href="https://doi.org/10.1016/j.cma.2023.116398">https://doi.org/10.1016/j.cma.2023.116398</a>.</p>
+</div>
+<div class="csl-entry docutils container" id="ref-mota2017">
+<p>Mota, Alejandro, Irina Tezaur, and Coleman Alleman. 2017. “The
+Schwarz Alternating Method in Solid Mechanics.” <em>Computer Methods
+in Applied Mechanics and Engineering</em> 319: 19–51.
+<a class="reference external" href="https://doi.org/https://doi.org/10.1016/j.cma.2017.02.006">https://doi.org/https://doi.org/10.1016/j.cma.2017.02.006</a>.</p>
+</div>
+<div class="csl-entry docutils container" id="ref-mota2022">
+<p>Mota, Alejandro, Irina Tezaur, and Gregory Phlipot. 2022. “The
+Schwarz Alternating Method for Transient Solid Dynamics.”
+<em>International Journal for Numerical Methods in Engineering</em> 123
+(21): 5036–71. <a class="reference external" href="https://doi.org/10.1002/nme.6982">https://doi.org/10.1002/nme.6982</a>.</p>
+</div>
+<div class="csl-entry docutils container" id="ref-snyder2023">
+<p>Snyder, Will, Irina Tezaur, and Christopher Wentland. 2023.
+“Domain Decomposition-Based Coupling of Physics-Informed Neural
+Networks via the Schwarz Alternating Method.” In <em>Computer Science
+Research Institute Summer Proceedings 2023, s. Seritan and b.
+Reuter, Eds.</em></p>
+</div>
+</div>
 </div>
 </div>
 </section>
