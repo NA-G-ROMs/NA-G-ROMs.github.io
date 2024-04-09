@@ -43,4 +43,9 @@ Seminar by Samuele Rubino
         computational cost. Therefore, the ROM offers a greater computational
         advantage over this scheme.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://youtu.be/xIK26A-s_ho>`_.
     
