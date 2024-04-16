@@ -16,7 +16,7 @@ Seminar by Simona Perotto
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Hierarchical model reduction: background, applications, recent progress, and future directions
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,59 @@ Seminar by Simona Perotto
 
     .. container:: sd-badge-next-text
 
-        TBA
+        Hierarchical Model (HiMod) reduction is designed to describe phenomena
+        where a primary dynamics is aligned with the dominant directionality of
+        the domain, while secondary dynamics evolve along the transverse
+        direction (Perotto, Ern, and Veneziani 2010). The modeling heterogenity
+        along the different directions corresponds to diverse discretizations in
+        correspondence with the mainstream and the transverse direction,
+        following a separation of variables approach. Common choices involve
+        using a finite element or an isogeometric approximation along the
+        mainstream, which is enriched by a modal (Fourier) expansion to capture
+        secondary dynamics. HiMod has demonstrated a substantial reduction in
+        computational cost and simulation time, while delivering an informative
+        solution.
+        
+        The presentation will start by introducing the fundamental principles,
+        theoretical outcomes, and tools associated with HiMod. Then, various
+        applications will be showcased where HiMod reduction has been
+        effectively applied, spanning from modeling blood flow in arteries
+        impacted by conditions like severe stenosis or aneurysms (Brandes Costa
+        Barbosa and Perotto 2020) to modeling acoustic wave propagation in
+        deformed pipelines (Gentili et al. 2022). Following this, recent
+        advances will be illustrated, including modeling flows in pipes with
+        geometric settings inherently excluded by the theoretical formalization
+        of HiMod, such as branches. Lastly, we’ll discuss the future directions
+        of hierarchical model reduction, exploring potential challenges and the
+        evolving landscape of research.
+        
+        .. container:: references csl-bib-body hanging-indent
+           :name: refs
+        
+           .. container:: csl-entry
+              :name: ref-BrandesPerotto2020
+        
+              Brandes Costa Barbosa, Yves Antonio, and Simona Perotto. 2020.
+              “Hierarchically Reduced Models for the Stokes Problem in
+              Patient-Specific Artery Segments.” *International Journal of
+              Computational Fluid Dynamics* 34 (2): 160–71.
+              https://doi.org/10.1080/10618562.2020.1733537.
+        
+           .. container:: csl-entry
+              :name: ref-Gentili2022
+        
+              Gentili, G. G., M. Khosronejad, G. Bernasconi, S. Perotto, and S.
+              Micheletti. 2022. “Efficient Modeling of Multimode Guided Acoustic
+              Wave Propagation in Deformed Pipelines by Hierarchical Model
+              Reduction.” *Applied Numerical Mathematics* 173: 329–44.
+              https://doi.org/10.1016/j.apnum.2021.12.008.
+        
+           .. container:: csl-entry
+              :name: ref-PerottoErnVeneziani2010
+        
+              Perotto, Simona, Alexandre Ern, and Alessandro Veneziani. 2010.
+              “Hierarchical Local Model Reduction for Elliptic Problems: A
+              Domain Decomposition Approach.” *Multiscale Modeling & Simulation*
+              8 (4): 1102–27. https://doi.org/10.1137/090756624.
 
     

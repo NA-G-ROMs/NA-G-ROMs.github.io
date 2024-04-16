@@ -41,7 +41,7 @@ Numerical Analysis of Galerkin ROMs seminar series
         :doc:`Upcoming seminars <upcoming>`
         ^^^
         * Martin Grepl, "`Reduced Order Model Predictive Control for Parametrized Partial Differential Equations <seminars/Martin_Grepl_2024.html>`__", 2024-04-16.
-        * Simona Perotto, "`TBA <seminars/Simona_Perotto_2024.html>`__", 2024-04-23.
+        * Simona Perotto, "`Hierarchical model reduction: background, applications, recent progress, and future directions <seminars/Simona_Perotto_2024.html>`__", 2024-04-23.
         * Irina Tezaur, "`Rigorous component-based coupling of first-principles and data-driven models <seminars/Irina_Tezaur_2024.html>`__", 2024-04-30.
         +++
         :doc:`Read more <upcoming>`
