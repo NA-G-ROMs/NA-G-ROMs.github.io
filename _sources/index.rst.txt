@@ -40,9 +40,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        * Martin Grepl, "`Reduced Order Model Predictive Control for Parametrized Partial Differential Equations <seminars/Martin_Grepl_2024.html>`__", 2024-04-16.
         * Simona Perotto, "`Hierarchical model reduction: background, applications, recent progress, and future directions <seminars/Simona_Perotto_2024.html>`__", 2024-04-23.
         * Irina Tezaur, "`Rigorous component-based coupling of first-principles and data-driven models <seminars/Irina_Tezaur_2024.html>`__", 2024-04-30.
+        * Alessandro Veneziani, "`TBA <seminars/Alessandro_Veneziani_2024.html>`__", 2024-05-07.
         +++
         :doc:`Read more <upcoming>`
 
@@ -50,9 +50,9 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Past seminars <past>`
         ^^^
+        * Martin Grepl, "`Reduced Order Model Predictive Control for Parametrized Partial Differential Equations <seminars/Martin_Grepl_2024.html>`__", 2024-04-16.
         * Samuele Rubino, "`Reduced order modeling for Navier-Stokes time-splitting methods with open boundary conditions <seminars/Samuele_Rubino_2024.html>`__":youtubeseminar:`https://youtu.be/xIK26A-s_ho`, 2024-04-09.
         * Enrique Delgado Ávila, "`A posteriori error estimators for the Greedy algorithm in Reduced Basis Method <seminars/Enrique_Delgado_Avila_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=kHAMXSkMc6c`, 2024-04-02.
-        * Kathrin Smetana, "`Model order reduction for seismic applications <seminars/Kathrin_Smetana_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=C3nrLnHlFug`, 2024-03-26.
         +++
         :doc:`Read more <past>`
 
