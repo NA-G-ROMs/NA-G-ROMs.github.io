@@ -50,4 +50,9 @@ Seminar by Martin Grepl
         Schlögl model. Numerical results are presented for the linear and
         nonlinear case to validate our approach.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=EOBMmuZ-aFU>`_.
     
