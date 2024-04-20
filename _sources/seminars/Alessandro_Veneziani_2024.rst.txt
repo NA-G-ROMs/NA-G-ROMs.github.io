@@ -16,7 +16,7 @@ Seminar by Alessandro Veneziani
 
     .. container:: sd-badge-next-text
 
-        TBA
+        The role of Mathematical Models and Model Reduction in the Design of Coronary Stents
 
     :bdg-primary-line:`Date`
 
@@ -31,6 +31,27 @@ Seminar by Alessandro Veneziani
 
     .. container:: sd-badge-next-text
 
-        TBA
+        In this talk, I will illustrate the critical role of Mathematical Models
+        in the understanding, design and optimization of coronary stents.
+        
+        Stents are devices intended to reopen a coronalry occlusion that may
+        lead to infarct. After the first implantation in humans at the end of
+        the Seventies, design of stents has improved significantly mainly thanks
+        to in vitro and in vivo studies. At the current level of sophistication,
+        more accurate and rigorous mathematical models are needed for the next
+        significant improvements and for avoiding market failures like
+        bioresorbable stents. Established and more recent approaches, like the
+        ones introduced by model reduction, can provide the breakthrough to
+        improve coronary disease therapy, together with accurate data
+        assimilation procedures to enable in silico clinical trials. In this
+        talk, I will report my experience at Emory, GA Tech and North East
+        Georgia Healthcare during the last 10 years.
+        
+        This work is possible thanks to the insighful collaboration with: Don
+        Giddens (GA Tech), Habib Samady (NEGH), Dave Molony (NEGH), Adrien
+        Lefieux (Inria), Francesco Migliavacca (Politecnico Milano), Claudio
+        Chiastra (Politecnico Torino), Sara Bridio (Politecnico Milano), Imran
+        Shah (Emory), Irving Martinez (Aarhus), Marina Piccinelli (Emory),
+        Jimena Martin-Tempestti (Emory), Brooks Lindsey (GA Tech).
 
     
