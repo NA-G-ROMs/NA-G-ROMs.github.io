@@ -86,4 +86,9 @@ Seminar by Simona Perotto
               Domain Decomposition Approach.” *Multiscale Modeling & Simulation*
               8 (4): 1102–27. https://doi.org/10.1137/090756624.
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=CHtfdbfnKBE>`_.
     

@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Simona Perotto, "`Hierarchical model reduction: background, applications, recent progress, and future directions <seminars/Simona_Perotto_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=CHtfdbfnKBE`, 2024-04-23.
 * Martin Grepl, "`Reduced Order Model Predictive Control for Parametrized Partial Differential Equations <seminars/Martin_Grepl_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=EOBMmuZ-aFU`, 2024-04-16.
 * Samuele Rubino, "`Reduced order modeling for Navier-Stokes time-splitting methods with open boundary conditions <seminars/Samuele_Rubino_2024.html>`__":youtubeseminar:`https://youtu.be/xIK26A-s_ho`, 2024-04-09.
 * Enrique Delgado Ávila, "`A posteriori error estimators for the Greedy algorithm in Reduced Basis Method <seminars/Enrique_Delgado_Avila_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=kHAMXSkMc6c`, 2024-04-02.
