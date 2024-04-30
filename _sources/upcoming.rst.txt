@@ -2,5 +2,4 @@
 
 Upcoming seminars
 =================
-* Irina Tezaur, "`Rigorous component-based coupling of first-principles and data-driven models <seminars/Irina_Tezaur_2024.html>`__", 2024-04-30.
 * Alessandro Veneziani, "`The role of Mathematical Models and Model Reduction in the Design of Coronary Stents <seminars/Alessandro_Veneziani_2024.html>`__", 2024-05-07.

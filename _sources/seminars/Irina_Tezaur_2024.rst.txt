@@ -132,4 +132,9 @@ Seminar by Irina Tezaur
               Research Institute Summer Proceedings 2023, s. Seritan and b.
               Reuter, Eds.*
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=15XZsyVUcIw>`_.
     
