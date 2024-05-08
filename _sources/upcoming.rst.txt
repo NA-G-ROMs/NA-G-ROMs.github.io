@@ -2,4 +2,3 @@
 
 Upcoming seminars
 =================
-* Alessandro Veneziani, "`The role of Mathematical Models and Model Reduction in the Design of Coronary Stents <seminars/Alessandro_Veneziani_2024.html>`__", 2024-05-07.

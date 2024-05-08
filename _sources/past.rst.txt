@@ -2,6 +2,7 @@
 
 Past seminars
 =============
+* Alessandro Veneziani, "`The role of Mathematical Models and Model Reduction in the Design of Coronary Stents <seminars/Alessandro_Veneziani_2024.html>`__", 2024-05-07.
 * Irina Tezaur, "`Rigorous component-based coupling of first-principles and data-driven models <seminars/Irina_Tezaur_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=15XZsyVUcIw`, 2024-04-30.
 * Simona Perotto, "`Hierarchical model reduction: background, applications, recent progress, and future directions <seminars/Simona_Perotto_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=CHtfdbfnKBE`, 2024-04-23.
 * Martin Grepl, "`Reduced Order Model Predictive Control for Parametrized Partial Differential Equations <seminars/Martin_Grepl_2024.html>`__":youtubeseminar:`https://www.youtube.com/watch?v=EOBMmuZ-aFU`, 2024-04-16.
