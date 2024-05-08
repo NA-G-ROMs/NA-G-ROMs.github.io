@@ -54,4 +54,9 @@ Seminar by Alessandro Veneziani
         Shah (Emory), Irving Martinez (Aarhus), Marina Piccinelli (Emory),
         Jimena Martin-Tempestti (Emory), Brooks Lindsey (GA Tech).
 
+    :bdg-primary-line:`Recording`
+
+    .. container:: sd-badge-next-text
+
+        Watch the recording on `our YouTube channel <https://www.youtube.com/watch?v=1NNNfrgXE_A>`_.
     
