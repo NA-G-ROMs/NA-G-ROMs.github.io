@@ -40,7 +40,7 @@ Numerical Analysis of Galerkin ROMs seminar series
 
         :doc:`Upcoming seminars <upcoming>`
         ^^^
-        NA G-ROMs seminars are on summer break. Stay tuned for future updates.
+        No upcoming NA G-ROMs seminar is currently scheduled. Stay tuned for future updates.
         +++
         :doc:`Read more <upcoming>`
 
